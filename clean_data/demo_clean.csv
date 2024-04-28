@@ -1,0 +1,4001 @@
+Cust_ID,education_level,dependents,city,age,sex
+4,Master,True,other,22,male
+5,High School,False,Birmingham,30,female
+6,PhD,True,other,19,female
+9,High School,False,other,21,male
+10,less than high school,False,other,22,male
+11,High School,True,Birmingham,24,male
+12,PhD,False,other,19,female
+15,less than high school,False,London,66,female
+18,High School,True,other,28,female
+19,Master,False,other,25,female
+20,Bachelor,False,Birmingham,27,male
+21,Bachelor,False,other,36,female
+24,High School,False,Birmingham,23,male
+25,High School,False,other,29,female
+28,less than high school,False,London,32,female
+30,High School,True,London,21,female
+31,PhD,False,London,70,male
+33,High School,True,other,22,female
+35,Master,True,Birmingham,52,female
+36,High School,False,Birmingham,48,female
+42,Bachelor,False,other,20,male
+43,High School,True,other,65,male
+44,High School,False,London,18,female
+45,Master,False,London,20,female
+46,Bachelor,False,other,21,female
+48,PhD,False,Birmingham,24,female
+50,Bachelor,False,other,25,male
+58,Master,True,other,23,male
+59,High School,False,other,23,female
+61,Bachelor,False,other,29,male
+62,High School,True,London,49,female
+63,PhD,True,other,23,female
+65,High School,True,other,43,male
+66,High School,True,other,26,female
+67,Master,False,other,21,female
+68,Bachelor,False,Birmingham,23,female
+72,High School,False,Birmingham,69,female
+73,High School,True,other,18,female
+74,High School,False,London,25,female
+75,Master,False,Birmingham,63,male
+77,High School,True,other,23,female
+79,less than high school,False,Birmingham,71,male
+80,less than high school,False,Birmingham,27,female
+81,Master,False,other,66,male
+84,less than high school,False,Birmingham,57,male
+85,PhD,False,London,28,male
+86,Master,False,London,21,female
+91,less than high school,False,Birmingham,20,male
+92,Bachelor,False,other,59,male
+94,High School,True,London,26,female
+95,High School,False,London,71,male
+97,High School,False,Birmingham,55,male
+98,High School,False,Birmingham,35,male
+100,High School,False,London,32,female
+101,High School,False,London,38,female
+102,PhD,True,Birmingham,53,female
+103,less than high school,False,London,23,female
+104,Bachelor,False,other,25,female
+105,PhD,True,other,20,female
+110,PhD,False,Birmingham,31,male
+112,less than high school,False,Birmingham,55,female
+114,High School,False,other,20,female
+115,Bachelor,False,London,20,male
+116,less than high school,True,other,21,male
+117,less than high school,False,other,24,female
+118,High School,False,Birmingham,22,male
+119,High School,False,Birmingham,28,male
+123,less than high school,True,other,37,female
+124,less than high school,False,Birmingham,24,female
+125,PhD,False,other,24,female
+127,High School,False,other,20,female
+128,High School,False,London,38,female
+129,High School,False,other,18,female
+131,High School,False,Birmingham,56,male
+132,less than high school,False,other,69,male
+134,Master,False,Birmingham,27,female
+137,less than high school,True,Birmingham,62,male
+138,Bachelor,False,other,55,female
+141,Master,True,Birmingham,57,female
+142,less than high school,True,Birmingham,24,male
+146,High School,False,London,31,female
+147,High School,False,Birmingham,35,female
+148,PhD,False,other,21,male
+149,Master,False,other,23,female
+150,Bachelor,False,London,21,female
+152,High School,False,Birmingham,73,male
+153,Master,False,other,30,female
+155,High School,False,Birmingham,22,female
+156,Bachelor,True,Birmingham,22,male
+159,Master,False,London,21,female
+160,Master,True,London,29,female
+161,less than high school,True,London,22,female
+162,Master,False,other,29,male
+163,High School,True,other,26,female
+164,PhD,False,Birmingham,20,female
+165,Bachelor,False,other,22,male
+166,High School,False,London,37,male
+167,Master,False,other,28,female
+168,High School,False,other,35,male
+171,Master,False,Birmingham,35,female
+173,less than high school,False,Birmingham,21,female
+176,High School,True,other,22,male
+177,less than high school,False,Birmingham,26,female
+178,Bachelor,False,London,19,female
+179,High School,False,other,20,female
+184,less than high school,False,Birmingham,29,female
+185,less than high school,False,London,26,female
+186,Master,False,Birmingham,30,male
+187,less than high school,False,Birmingham,31,male
+188,Master,True,other,26,male
+189,Bachelor,False,Birmingham,29,female
+190,Master,False,other,59,female
+192,PhD,False,other,31,female
+193,High School,False,London,21,male
+195,Master,False,other,21,female
+197,High School,False,Birmingham,55,female
+198,High School,False,other,33,male
+202,PhD,False,London,25,female
+203,High School,True,Birmingham,18,female
+204,PhD,False,London,20,male
+206,Bachelor,False,other,30,female
+207,Bachelor,True,other,27,male
+208,Bachelor,True,other,29,male
+209,High School,False,other,22,female
+210,less than high school,False,other,29,male
+211,Bachelor,False,Birmingham,22,male
+212,High School,True,London,23,female
+213,High School,True,other,23,male
+215,Bachelor,False,other,28,female
+216,PhD,False,other,18,female
+217,Master,True,other,26,male
+218,High School,True,other,63,female
+219,Master,False,other,26,male
+220,High School,True,other,31,female
+221,Master,False,Birmingham,65,female
+222,PhD,False,Birmingham,21,male
+224,Master,True,Birmingham,23,male
+225,High School,False,London,21,female
+226,Master,True,Birmingham,24,male
+228,Master,False,London,40,female
+229,High School,False,London,26,female
+235,High School,True,other,32,female
+236,High School,False,other,26,female
+237,High School,True,Birmingham,49,female
+238,Master,True,London,31,male
+239,PhD,False,other,59,female
+242,Bachelor,False,Birmingham,30,female
+244,Bachelor,False,London,61,female
+245,High School,False,other,45,male
+246,Bachelor,False,other,21,female
+247,Master,False,Birmingham,23,female
+248,Master,False,other,23,female
+249,High School,False,other,23,female
+251,PhD,False,London,32,male
+252,Bachelor,True,Birmingham,59,male
+254,less than high school,True,Birmingham,52,male
+256,Master,False,Birmingham,32,female
+257,less than high school,False,other,22,male
+261,High School,False,Birmingham,34,male
+263,High School,False,Birmingham,20,male
+264,High School,False,Birmingham,21,male
+265,Master,False,other,22,female
+267,Bachelor,False,other,30,male
+269,High School,False,other,26,female
+270,less than high school,False,Birmingham,46,female
+275,less than high school,True,other,51,female
+276,High School,True,Birmingham,48,male
+279,High School,False,London,28,male
+280,Bachelor,False,Birmingham,24,female
+283,less than high school,True,other,32,female
+284,High School,False,other,58,male
+285,less than high school,False,Birmingham,63,female
+288,High School,False,other,21,female
+289,Bachelor,False,other,29,female
+290,Bachelor,True,other,71,male
+294,Bachelor,False,London,56,female
+296,PhD,False,other,18,female
+297,High School,False,Birmingham,35,female
+298,less than high school,True,other,34,female
+299,High School,False,other,57,male
+301,less than high school,False,Birmingham,55,male
+303,High School,False,Birmingham,26,female
+304,High School,False,other,19,female
+305,Master,False,London,22,female
+307,Bachelor,False,other,27,female
+308,Bachelor,False,other,32,female
+309,High School,False,Birmingham,21,female
+310,Master,False,other,20,female
+313,Master,False,London,32,female
+314,High School,False,Birmingham,65,female
+315,Master,True,London,66,male
+317,Bachelor,True,London,28,male
+318,High School,True,London,64,female
+319,Master,True,Birmingham,71,female
+320,High School,False,other,70,female
+322,High School,False,Birmingham,30,female
+326,Bachelor,False,other,33,female
+327,High School,False,other,25,female
+328,Bachelor,False,other,26,female
+332,High School,False,London,57,male
+333,PhD,False,Birmingham,54,female
+334,Master,False,Birmingham,33,male
+335,Master,False,London,56,male
+336,High School,True,other,21,female
+337,High School,False,Birmingham,20,female
+339,PhD,True,Birmingham,22,male
+340,less than high school,True,other,36,female
+343,High School,False,other,36,female
+344,Bachelor,False,other,22,female
+347,High School,False,London,38,male
+348,High School,False,other,25,female
+349,less than high school,False,other,26,female
+351,High School,False,other,25,female
+352,High School,False,Birmingham,59,male
+353,Master,False,other,33,female
+354,High School,False,other,37,female
+355,PhD,False,Birmingham,21,female
+357,Master,False,other,26,female
+358,Bachelor,False,other,37,male
+360,High School,False,Birmingham,25,female
+362,Master,False,other,29,male
+364,Master,False,other,71,male
+365,Bachelor,False,other,72,male
+366,High School,False,Birmingham,26,female
+368,Bachelor,False,Birmingham,20,male
+369,Bachelor,False,Birmingham,61,male
+370,High School,False,other,67,male
+374,High School,False,Birmingham,21,male
+375,Bachelor,False,London,26,female
+378,Bachelor,True,other,20,female
+379,PhD,True,other,22,male
+380,Master,False,other,71,male
+381,Bachelor,True,other,60,female
+382,High School,False,other,54,male
+383,High School,False,Birmingham,24,female
+384,less than high school,True,other,33,female
+385,PhD,True,other,25,female
+386,High School,False,London,31,female
+387,High School,False,Birmingham,56,female
+388,High School,False,Birmingham,29,female
+392,Bachelor,True,other,31,male
+393,High School,False,London,24,male
+395,Master,True,Birmingham,18,female
+396,PhD,True,Birmingham,38,female
+397,Bachelor,False,Birmingham,25,male
+398,High School,False,other,29,female
+399,Bachelor,False,London,20,female
+403,High School,False,Birmingham,28,male
+404,High School,True,Birmingham,39,female
+405,Master,False,other,30,male
+406,PhD,True,other,40,female
+409,Bachelor,False,other,37,male
+410,Master,False,other,64,female
+411,Bachelor,False,other,20,male
+412,Master,False,other,38,male
+415,High School,False,Birmingham,66,female
+417,High School,False,London,22,male
+418,Bachelor,False,other,50,male
+419,High School,False,other,22,female
+420,Bachelor,False,other,33,male
+421,High School,False,London,54,female
+423,Master,False,Birmingham,21,female
+425,High School,True,other,23,female
+426,less than high school,False,Birmingham,35,male
+427,High School,False,Birmingham,55,male
+428,Master,False,other,28,male
+429,Bachelor,False,other,35,male
+431,Bachelor,True,Birmingham,23,male
+433,Bachelor,False,other,61,male
+437,High School,False,other,34,male
+439,Bachelor,False,other,23,male
+440,Bachelor,False,Birmingham,25,male
+444,High School,True,other,32,male
+445,High School,True,other,56,female
+446,Master,False,other,35,female
+447,PhD,False,other,24,female
+449,High School,False,London,37,female
+451,Bachelor,False,Birmingham,73,male
+452,less than high school,False,London,65,male
+457,PhD,True,other,29,male
+462,Bachelor,False,Birmingham,25,male
+463,Bachelor,True,other,24,male
+465,High School,False,other,25,female
+466,less than high school,False,Birmingham,31,female
+467,Bachelor,False,other,19,female
+468,Master,False,other,37,male
+469,High School,False,other,20,female
+470,High School,False,Birmingham,42,male
+471,High School,False,Birmingham,37,female
+472,High School,False,Birmingham,22,female
+474,High School,False,other,69,male
+475,Bachelor,False,other,38,female
+476,Bachelor,False,Birmingham,65,male
+477,PhD,False,other,24,male
+478,Master,True,London,26,female
+483,High School,False,Birmingham,49,female
+485,Bachelor,False,Birmingham,24,female
+486,Bachelor,False,other,33,female
+487,Bachelor,False,other,20,female
+491,Bachelor,False,other,23,female
+493,High School,False,Birmingham,24,female
+494,Master,False,other,24,female
+495,Bachelor,False,London,32,male
+497,High School,False,Birmingham,23,female
+498,Bachelor,False,Birmingham,23,male
+499,High School,False,other,45,male
+500,High School,True,Birmingham,22,male
+501,High School,False,other,20,female
+502,Bachelor,False,other,21,female
+503,High School,False,other,32,female
+506,Master,False,other,47,male
+509,High School,False,other,18,female
+510,Master,False,other,18,female
+511,Bachelor,False,London,54,male
+512,Bachelor,False,other,23,female
+513,Bachelor,False,other,27,female
+514,Bachelor,False,other,33,male
+517,Bachelor,False,Birmingham,74,female
+518,Bachelor,False,Birmingham,63,male
+520,Master,True,other,18,female
+523,Bachelor,False,London,66,male
+524,Bachelor,False,other,78,male
+525,Master,False,Birmingham,28,male
+527,High School,True,other,70,male
+528,Bachelor,False,Birmingham,47,female
+530,Master,False,London,20,female
+532,Bachelor,False,Birmingham,20,female
+533,High School,False,London,18,female
+535,Master,False,other,23,female
+537,High School,False,other,27,female
+539,Bachelor,False,Birmingham,24,female
+540,High School,True,other,71,male
+541,Bachelor,False,other,23,male
+543,Bachelor,False,other,26,male
+546,less than high school,False,Birmingham,38,female
+547,Bachelor,False,other,23,male
+549,Bachelor,False,Birmingham,40,male
+550,less than high school,False,Birmingham,28,female
+551,Master,False,London,18,female
+552,Bachelor,False,Birmingham,65,female
+553,High School,False,other,30,male
+554,less than high school,False,other,19,female
+556,High School,False,other,25,female
+558,Master,False,Birmingham,22,female
+559,Master,False,other,20,female
+560,Bachelor,False,other,24,female
+561,Bachelor,False,Birmingham,51,female
+563,High School,False,London,78,female
+564,High School,False,other,23,male
+565,Bachelor,False,other,21,female
+566,Bachelor,False,other,22,male
+568,Bachelor,False,other,24,female
+569,High School,True,other,49,female
+571,High School,False,other,22,female
+573,PhD,False,Birmingham,19,female
+574,Bachelor,False,Birmingham,45,male
+575,Master,False,other,23,female
+576,less than high school,False,London,30,female
+577,High School,False,London,30,male
+578,Bachelor,False,Birmingham,27,male
+579,Master,False,other,25,male
+580,Master,False,other,21,female
+582,High School,False,other,34,female
+583,Master,False,London,31,female
+584,High School,True,Birmingham,28,female
+585,High School,False,other,22,female
+586,High School,False,London,28,female
+589,High School,False,other,25,female
+590,High School,False,London,24,female
+591,High School,False,London,22,female
+593,Bachelor,False,Birmingham,18,female
+594,Bachelor,True,other,46,female
+595,less than high school,False,Birmingham,41,female
+596,Master,False,Birmingham,42,female
+597,Bachelor,False,Birmingham,57,male
+598,Master,False,London,22,male
+599,Master,False,London,31,male
+601,PhD,False,Birmingham,63,male
+602,PhD,True,Birmingham,28,female
+603,Bachelor,False,Birmingham,50,male
+605,High School,False,London,28,female
+606,Bachelor,True,London,26,male
+607,Master,False,Birmingham,76,female
+608,High School,False,London,27,male
+610,Bachelor,False,London,19,female
+611,Bachelor,False,Birmingham,25,female
+613,Bachelor,False,other,34,female
+614,Bachelor,False,Birmingham,23,male
+615,High School,False,London,21,female
+616,Bachelor,False,Birmingham,21,female
+617,Master,False,other,30,male
+618,less than high school,False,Birmingham,25,female
+620,High School,False,London,80,female
+621,High School,True,London,30,female
+626,Master,False,Birmingham,31,female
+627,High School,False,other,34,male
+628,PhD,False,other,59,male
+629,High School,True,Birmingham,55,male
+630,less than high school,True,other,26,female
+631,Master,False,Birmingham,47,female
+632,High School,True,other,19,female
+633,less than high school,False,other,28,female
+637,High School,False,Birmingham,24,male
+640,High School,False,other,26,female
+641,less than high school,True,London,23,male
+642,High School,False,Birmingham,27,male
+643,less than high school,True,other,62,female
+644,Bachelor,False,London,43,male
+646,less than high school,True,other,69,female
+647,High School,False,Birmingham,24,male
+648,High School,False,other,34,male
+649,Bachelor,False,Birmingham,28,male
+653,Bachelor,False,other,27,male
+654,Master,False,other,31,female
+655,High School,False,other,54,male
+658,Bachelor,False,London,22,male
+661,less than high school,False,other,22,male
+662,High School,False,other,28,male
+664,High School,False,other,26,female
+665,less than high school,False,other,20,female
+667,less than high school,False,Birmingham,25,female
+668,High School,False,Birmingham,22,female
+669,Master,False,Birmingham,21,female
+670,High School,False,other,63,female
+671,less than high school,False,Birmingham,21,male
+673,Bachelor,False,Birmingham,23,male
+680,Master,False,Birmingham,68,male
+681,High School,False,other,22,male
+682,less than high school,False,other,22,female
+684,less than high school,True,other,21,female
+685,High School,False,other,29,female
+689,Bachelor,False,other,26,female
+691,less than high school,False,other,24,female
+692,Bachelor,False,other,20,female
+693,High School,False,Birmingham,40,female
+694,less than high school,False,other,22,male
+696,Bachelor,False,London,20,female
+697,less than high school,True,other,18,female
+698,High School,False,London,18,female
+700,High School,False,Birmingham,22,female
+701,Master,False,London,24,male
+704,less than high school,False,other,69,male
+706,High School,True,Birmingham,27,female
+707,Master,True,London,30,female
+709,Bachelor,False,Birmingham,28,female
+711,High School,False,other,20,female
+712,High School,False,other,24,female
+714,less than high school,False,other,59,male
+716,Master,True,other,20,female
+717,High School,False,other,47,female
+718,High School,True,other,37,male
+720,less than high school,False,Birmingham,23,male
+721,High School,True,other,24,female
+722,High School,False,London,30,male
+723,Bachelor,False,Birmingham,68,male
+724,PhD,True,other,59,female
+726,Bachelor,False,London,74,female
+727,PhD,False,other,30,male
+729,less than high school,False,Birmingham,37,female
+730,High School,False,London,56,male
+732,Master,False,London,25,female
+733,PhD,False,Birmingham,34,female
+734,PhD,False,London,58,female
+735,High School,False,other,24,male
+736,High School,False,other,33,female
+738,Bachelor,False,other,21,male
+741,PhD,False,other,19,female
+742,less than high school,False,other,32,female
+743,Master,False,other,24,female
+745,PhD,False,other,61,female
+746,High School,False,Birmingham,65,male
+748,High School,False,other,60,female
+749,Bachelor,False,Birmingham,37,female
+755,Master,False,London,34,female
+756,Bachelor,False,other,23,female
+758,High School,False,other,71,male
+759,Bachelor,True,London,24,female
+761,High School,False,other,27,male
+765,less than high school,False,Birmingham,31,female
+766,Bachelor,False,London,30,female
+767,High School,False,London,31,male
+768,Bachelor,False,other,23,male
+769,High School,False,other,22,male
+770,High School,False,Birmingham,24,male
+771,Bachelor,True,other,32,female
+773,High School,True,London,24,female
+774,High School,False,other,36,male
+775,High School,False,Birmingham,58,female
+776,PhD,False,Birmingham,25,female
+777,High School,False,other,30,male
+780,High School,False,other,76,female
+783,High School,False,other,21,female
+784,High School,False,other,30,male
+785,Master,False,other,59,male
+787,High School,False,Birmingham,23,female
+789,High School,False,Birmingham,33,female
+790,Master,False,other,57,male
+791,High School,False,other,25,female
+792,High School,False,other,23,female
+793,less than high school,False,other,24,male
+795,Master,False,Birmingham,25,female
+797,less than high school,True,Birmingham,71,male
+798,Master,False,Birmingham,26,female
+799,Bachelor,False,other,32,female
+800,Master,True,other,36,male
+803,High School,False,Birmingham,66,female
+804,PhD,False,Birmingham,65,male
+805,Master,False,Birmingham,24,female
+806,High School,False,other,23,female
+807,less than high school,False,London,28,female
+808,Master,False,other,23,female
+809,Bachelor,False,Birmingham,26,male
+812,Bachelor,False,London,29,female
+813,High School,False,Birmingham,38,male
+814,Bachelor,False,other,38,female
+815,PhD,False,London,21,male
+816,High School,False,other,25,female
+820,High School,False,London,23,female
+822,less than high school,False,Birmingham,31,male
+823,High School,False,London,70,female
+824,Bachelor,False,other,37,male
+825,High School,False,Birmingham,33,female
+827,PhD,True,Birmingham,23,female
+828,Master,True,other,22,female
+830,PhD,False,Birmingham,30,male
+831,Master,False,Birmingham,26,male
+832,High School,False,other,21,female
+833,High School,True,other,43,male
+834,High School,True,Birmingham,22,female
+835,High School,True,other,70,male
+838,Master,False,Birmingham,25,female
+841,Master,False,other,24,female
+842,Bachelor,False,other,24,female
+843,High School,False,other,28,male
+846,High School,False,other,21,female
+847,High School,False,Birmingham,33,male
+849,High School,False,other,24,male
+852,High School,True,other,22,female
+853,High School,False,Birmingham,63,male
+854,High School,False,other,26,male
+856,Master,True,other,23,male
+857,High School,False,Birmingham,51,female
+858,High School,False,other,40,female
+859,High School,False,other,21,female
+860,PhD,False,other,55,female
+861,less than high school,True,London,21,female
+866,High School,False,London,23,female
+872,High School,False,other,29,female
+875,less than high school,False,other,19,female
+876,Master,False,other,37,female
+878,Master,True,other,25,female
+879,less than high school,True,other,63,female
+882,High School,True,Birmingham,67,male
+883,High School,True,other,24,female
+884,High School,False,other,29,female
+885,PhD,False,other,43,female
+887,Bachelor,False,Birmingham,23,female
+888,Master,True,Birmingham,20,female
+889,High School,False,other,55,male
+890,PhD,False,Birmingham,62,female
+891,High School,False,other,66,female
+893,less than high school,False,other,67,male
+895,High School,False,other,19,female
+896,PhD,False,other,19,female
+897,High School,False,other,63,female
+900,High School,False,Birmingham,30,female
+901,Master,True,other,24,female
+902,Master,False,London,32,male
+903,High School,False,Birmingham,21,female
+904,High School,False,Birmingham,19,female
+905,High School,False,Birmingham,33,male
+909,Master,False,other,47,female
+910,Master,False,other,26,female
+912,Bachelor,False,London,26,female
+913,High School,False,other,26,male
+914,High School,False,other,23,male
+916,High School,False,London,21,female
+917,High School,True,London,33,female
+918,Bachelor,False,other,69,male
+919,Bachelor,True,other,61,male
+920,Bachelor,False,other,57,male
+921,Bachelor,False,other,25,female
+923,High School,False,Birmingham,36,male
+925,Bachelor,True,other,22,male
+926,High School,False,Birmingham,20,female
+927,Bachelor,False,other,42,female
+928,Bachelor,False,Birmingham,22,male
+929,less than high school,False,other,18,female
+934,less than high school,False,Birmingham,24,female
+935,PhD,False,Birmingham,35,male
+937,High School,False,other,26,female
+938,Master,False,Birmingham,22,male
+939,Master,False,other,44,male
+941,High School,False,other,70,female
+944,Bachelor,False,London,29,male
+945,Master,False,other,26,female
+946,Bachelor,False,Birmingham,28,male
+948,Master,False,other,26,female
+949,High School,False,London,21,female
+952,High School,True,other,24,female
+956,Bachelor,True,London,22,female
+957,Bachelor,False,other,19,female
+958,High School,False,other,23,female
+959,High School,False,Birmingham,19,female
+960,High School,False,Birmingham,30,male
+961,High School,False,other,55,female
+963,Bachelor,False,other,26,female
+964,High School,False,other,53,female
+965,less than high school,False,Birmingham,36,female
+966,Bachelor,True,London,33,male
+967,Master,True,Birmingham,22,male
+968,Master,False,Birmingham,18,male
+969,Master,True,Birmingham,49,male
+970,Bachelor,False,other,30,male
+971,Bachelor,False,other,22,female
+972,High School,False,other,24,female
+973,High School,False,London,34,male
+974,Bachelor,False,London,24,female
+976,High School,True,other,58,male
+977,less than high school,False,Birmingham,23,male
+978,Master,False,Birmingham,74,female
+981,High School,False,Birmingham,71,male
+983,High School,True,London,38,female
+984,PhD,False,other,26,female
+987,Bachelor,True,other,46,male
+988,PhD,False,other,25,female
+989,less than high school,False,other,21,male
+990,High School,False,London,33,male
+992,less than high school,True,London,26,female
+993,High School,True,other,55,male
+994,High School,False,other,21,male
+995,Bachelor,False,other,57,male
+996,High School,True,other,18,female
+997,Master,False,other,22,female
+999,less than high school,False,Birmingham,19,female
+1000,PhD,False,Birmingham,42,female
+1001,Bachelor,False,other,21,male
+1002,Master,False,other,62,male
+1003,less than high school,False,Birmingham,22,female
+1004,High School,False,London,21,male
+1006,Master,False,Birmingham,29,female
+1008,High School,False,Birmingham,18,male
+1009,High School,False,other,36,male
+1010,High School,False,other,29,female
+1011,Bachelor,False,other,22,male
+1012,High School,True,other,28,male
+1013,High School,False,Birmingham,53,male
+1014,less than high school,False,other,28,female
+1016,Master,False,London,56,female
+1017,Bachelor,False,other,62,female
+1018,Bachelor,False,London,33,female
+1019,High School,False,Birmingham,37,female
+1022,Master,True,Birmingham,26,female
+1024,Master,False,other,55,female
+1025,High School,False,other,53,male
+1027,Master,False,London,33,male
+1028,Bachelor,False,Birmingham,21,female
+1030,High School,False,other,52,female
+1032,Bachelor,False,Birmingham,31,female
+1033,High School,False,London,30,male
+1034,Master,False,Birmingham,53,female
+1035,PhD,False,Birmingham,56,male
+1036,Bachelor,False,other,24,female
+1037,less than high school,False,Birmingham,37,female
+1039,High School,False,London,25,female
+1040,High School,False,Birmingham,25,female
+1041,High School,False,other,18,female
+1043,Bachelor,False,London,25,male
+1044,Bachelor,False,Birmingham,32,male
+1045,Master,False,Birmingham,32,male
+1046,High School,False,other,29,female
+1049,High School,False,Birmingham,25,male
+1051,High School,False,Birmingham,22,male
+1054,High School,False,other,46,female
+1055,Bachelor,False,other,71,female
+1057,Bachelor,True,Birmingham,71,female
+1059,Master,False,other,25,female
+1062,Bachelor,False,Birmingham,21,female
+1063,Bachelor,False,Birmingham,22,female
+1064,less than high school,True,Birmingham,29,female
+1065,High School,True,other,23,female
+1066,Bachelor,False,Birmingham,20,female
+1067,Bachelor,False,other,49,male
+1068,less than high school,False,London,24,female
+1069,High School,True,Birmingham,65,male
+1071,High School,False,other,61,male
+1073,Bachelor,True,Birmingham,21,male
+1074,Master,False,Birmingham,60,male
+1077,High School,True,other,26,female
+1078,High School,True,other,20,female
+1079,Bachelor,False,other,31,female
+1082,High School,False,Birmingham,25,female
+1083,Master,False,Birmingham,55,female
+1084,High School,False,London,34,male
+1085,less than high school,False,Birmingham,30,female
+1086,High School,False,London,42,female
+1087,Master,False,Birmingham,21,male
+1088,less than high school,False,other,23,male
+1089,Master,False,other,56,female
+1090,High School,True,Birmingham,22,female
+1091,Master,False,other,54,male
+1093,PhD,False,Birmingham,26,female
+1094,High School,True,other,29,male
+1097,Bachelor,True,other,20,female
+1102,PhD,True,other,63,male
+1103,less than high school,False,other,27,male
+1106,less than high school,False,other,23,female
+1107,less than high school,True,other,25,male
+1108,High School,True,Birmingham,23,female
+1109,Bachelor,False,London,22,male
+1110,High School,True,other,30,female
+1112,High School,False,London,29,male
+1113,Master,False,other,29,male
+1114,less than high school,False,Birmingham,25,male
+1115,less than high school,True,other,58,male
+1116,High School,False,Birmingham,18,female
+1117,Master,False,other,33,female
+1119,High School,False,other,33,male
+1120,Bachelor,False,Birmingham,25,female
+1121,Bachelor,False,other,35,female
+1122,High School,False,London,38,female
+1123,High School,False,other,73,female
+1125,Bachelor,False,Birmingham,23,male
+1126,High School,False,Birmingham,29,male
+1127,High School,False,Birmingham,24,female
+1129,Master,False,other,36,male
+1130,Master,False,Birmingham,32,female
+1131,less than high school,True,other,19,female
+1134,Bachelor,False,Birmingham,26,female
+1135,Master,False,London,23,male
+1137,Bachelor,False,Birmingham,57,female
+1138,PhD,False,other,66,female
+1139,High School,True,other,21,female
+1140,High School,False,other,22,male
+1144,High School,False,London,57,female
+1147,Bachelor,False,Birmingham,35,female
+1148,less than high school,False,London,51,male
+1152,Bachelor,True,other,45,female
+1154,less than high school,False,London,31,male
+1155,High School,False,other,54,female
+1156,less than high school,False,London,34,female
+1161,Master,False,other,20,male
+1164,Master,True,Birmingham,30,male
+1166,High School,False,London,50,male
+1167,High School,False,Birmingham,31,female
+1168,High School,False,London,68,male
+1169,High School,True,other,22,male
+1170,High School,False,Birmingham,20,female
+1171,Master,True,other,35,female
+1172,High School,False,other,20,female
+1173,High School,False,other,51,male
+1174,High School,True,London,26,female
+1178,less than high school,False,London,38,female
+1179,High School,True,London,20,male
+1182,High School,True,other,68,female
+1183,less than high school,True,London,37,female
+1185,less than high school,True,other,22,female
+1186,High School,False,Birmingham,23,male
+1187,Master,False,Birmingham,52,female
+1188,less than high school,False,other,22,female
+1189,Bachelor,True,Birmingham,66,male
+1193,PhD,False,other,24,male
+1195,Master,False,Birmingham,46,male
+1196,PhD,False,other,20,female
+1199,Master,False,Birmingham,30,female
+1200,High School,True,London,23,male
+1201,High School,False,other,71,male
+1203,High School,False,other,54,female
+1204,Bachelor,False,other,67,male
+1206,High School,False,Birmingham,21,female
+1207,Bachelor,False,other,20,female
+1208,High School,True,Birmingham,20,female
+1211,less than high school,True,Birmingham,73,female
+1212,High School,False,London,45,female
+1213,Bachelor,False,other,62,female
+1216,High School,False,other,37,female
+1219,Master,False,London,18,female
+1224,Bachelor,False,other,53,female
+1225,High School,True,other,19,female
+1226,High School,False,London,34,female
+1227,High School,False,other,24,female
+1229,High School,False,other,41,male
+1232,High School,True,London,27,male
+1233,Bachelor,False,other,21,female
+1234,PhD,False,Birmingham,25,male
+1237,PhD,False,other,25,female
+1238,Master,False,London,21,female
+1240,Bachelor,True,London,35,female
+1242,High School,False,other,38,female
+1243,High School,False,Birmingham,26,female
+1244,less than high school,True,Birmingham,20,male
+1247,High School,False,Birmingham,28,female
+1250,Master,False,other,33,male
+1251,High School,True,other,26,female
+1252,Bachelor,False,Birmingham,21,male
+1254,High School,False,other,31,female
+1255,Master,False,other,23,male
+1256,High School,False,Birmingham,20,female
+1259,less than high school,True,other,32,female
+1260,less than high school,False,other,29,female
+1262,Bachelor,False,other,46,female
+1263,less than high school,False,other,67,male
+1265,Master,False,other,19,female
+1266,High School,False,Birmingham,61,male
+1268,less than high school,False,Birmingham,32,male
+1270,High School,False,London,49,female
+1271,High School,False,other,22,male
+1273,High School,True,other,23,female
+1275,PhD,True,London,23,female
+1276,Bachelor,False,Birmingham,32,female
+1277,High School,True,other,71,female
+1279,Bachelor,False,other,52,female
+1280,less than high school,False,other,24,female
+1283,Master,False,other,23,female
+1284,High School,False,London,25,male
+1285,Master,False,other,31,female
+1286,Bachelor,False,Birmingham,18,male
+1289,Bachelor,False,other,46,female
+1290,less than high school,False,other,28,male
+1292,High School,False,other,57,female
+1293,less than high school,False,London,20,female
+1294,High School,False,Birmingham,51,female
+1295,less than high school,True,other,72,male
+1296,less than high school,True,Birmingham,69,male
+1298,High School,True,other,26,female
+1300,less than high school,False,other,26,male
+1302,Master,False,other,53,male
+1303,Bachelor,False,Birmingham,52,male
+1304,High School,False,other,23,female
+1308,Master,True,Birmingham,23,female
+1309,Master,False,London,54,male
+1310,less than high school,False,Birmingham,18,female
+1313,Master,False,other,26,female
+1314,High School,False,other,22,male
+1315,Master,False,other,20,female
+1316,High School,False,Birmingham,61,female
+1317,less than high school,True,other,22,female
+1318,Bachelor,False,London,23,male
+1319,Bachelor,False,other,39,female
+1321,Master,False,Birmingham,56,male
+1325,less than high school,False,London,61,male
+1330,less than high school,False,other,34,female
+1331,less than high school,False,other,29,female
+1333,Master,False,Birmingham,22,female
+1334,PhD,False,other,23,female
+1335,PhD,False,other,47,male
+1337,High School,False,Birmingham,20,female
+1340,High School,False,other,24,female
+1341,High School,False,other,22,female
+1342,PhD,True,other,25,female
+1344,High School,False,other,37,female
+1351,Master,False,other,22,male
+1352,PhD,True,other,28,male
+1353,less than high school,False,other,25,female
+1355,less than high school,False,Birmingham,21,male
+1356,Master,False,other,18,female
+1358,High School,False,other,25,male
+1362,Master,False,other,55,male
+1364,Bachelor,False,Birmingham,37,male
+1365,High School,True,London,31,male
+1366,less than high school,False,other,34,male
+1369,PhD,False,other,22,male
+1370,Master,False,Birmingham,55,male
+1371,Master,False,Birmingham,21,male
+1373,Bachelor,False,Birmingham,72,male
+1375,High School,False,London,46,male
+1376,High School,False,other,28,female
+1377,less than high school,False,other,21,male
+1379,Bachelor,True,other,55,female
+1380,Master,True,Birmingham,24,female
+1384,High School,True,other,23,female
+1385,Master,True,Birmingham,21,male
+1386,High School,False,Birmingham,20,male
+1388,Master,False,Birmingham,71,female
+1390,Master,False,Birmingham,22,male
+1392,Master,False,other,30,female
+1394,High School,False,other,23,male
+1395,Master,False,Birmingham,22,male
+1396,PhD,False,Birmingham,20,female
+1397,High School,False,other,52,female
+1398,less than high school,True,Birmingham,36,male
+1399,PhD,True,Birmingham,23,male
+1400,Bachelor,False,Birmingham,24,male
+1402,less than high school,False,other,18,female
+1404,High School,False,other,74,male
+1405,High School,False,Birmingham,28,male
+1407,less than high school,False,Birmingham,32,female
+1409,High School,True,London,22,female
+1410,less than high school,False,other,26,female
+1411,PhD,True,other,37,male
+1412,High School,True,other,51,female
+1413,Bachelor,True,other,21,female
+1414,Bachelor,False,Birmingham,24,female
+1416,less than high school,False,other,34,male
+1417,High School,False,London,22,male
+1420,High School,False,other,66,female
+1421,less than high school,False,Birmingham,64,male
+1422,High School,True,Birmingham,58,male
+1424,Bachelor,False,Birmingham,23,male
+1426,High School,False,London,27,male
+1428,less than high school,True,other,52,female
+1429,High School,False,other,68,male
+1430,Master,False,other,70,female
+1432,High School,False,other,38,male
+1433,High School,False,other,34,female
+1434,Bachelor,False,London,30,female
+1435,less than high school,False,other,27,female
+1436,Bachelor,False,other,45,male
+1440,less than high school,True,other,23,female
+1441,Master,False,other,21,female
+1445,Master,False,Birmingham,35,male
+1446,High School,True,London,24,female
+1447,High School,True,Birmingham,20,female
+1448,less than high school,False,other,25,male
+1449,High School,False,Birmingham,59,male
+1450,High School,False,other,40,female
+1451,High School,False,other,54,male
+1453,less than high school,True,London,66,female
+1454,Bachelor,False,other,24,female
+1455,Master,False,other,35,female
+1456,Master,True,Birmingham,31,female
+1457,High School,True,Birmingham,19,female
+1458,less than high school,False,London,23,male
+1459,less than high school,False,other,36,female
+1461,less than high school,False,other,62,female
+1462,Master,False,Birmingham,69,male
+1463,High School,False,other,36,male
+1464,High School,False,Birmingham,71,male
+1469,less than high school,False,Birmingham,56,female
+1471,High School,False,other,19,female
+1472,Master,False,other,22,male
+1473,Bachelor,True,other,22,male
+1475,PhD,False,London,25,male
+1476,High School,False,other,34,male
+1478,less than high school,False,other,75,male
+1479,High School,False,London,63,male
+1480,High School,False,other,57,female
+1482,Master,False,other,22,female
+1483,Bachelor,False,other,22,female
+1486,less than high school,False,Birmingham,27,female
+1488,High School,False,Birmingham,57,male
+1489,High School,False,London,57,male
+1490,Bachelor,False,other,21,male
+1491,Bachelor,True,Birmingham,64,male
+1493,Master,False,Birmingham,31,female
+1495,Master,False,other,57,male
+1497,Bachelor,False,Birmingham,22,female
+1499,High School,False,Birmingham,23,male
+1500,less than high school,True,Birmingham,60,male
+1501,Master,False,other,60,male
+1502,less than high school,False,other,20,male
+1503,Master,False,London,47,female
+1504,High School,True,other,21,male
+1506,High School,True,other,48,female
+1509,Bachelor,True,Birmingham,26,male
+1511,Master,False,Birmingham,23,female
+1512,High School,False,other,24,female
+1515,PhD,True,Birmingham,62,male
+1516,Master,False,London,36,female
+1518,Master,False,other,49,male
+1519,High School,False,other,71,female
+1520,High School,False,other,23,female
+1522,High School,True,Birmingham,44,male
+1523,Master,False,London,20,female
+1527,High School,False,Birmingham,19,female
+1530,High School,True,other,24,female
+1532,High School,False,Birmingham,28,male
+1533,less than high school,False,Birmingham,28,female
+1538,High School,False,other,36,female
+1542,PhD,False,other,73,male
+1544,Master,False,Birmingham,35,male
+1545,High School,True,other,31,female
+1548,High School,True,London,24,female
+1549,Bachelor,False,Birmingham,31,female
+1552,PhD,True,Birmingham,23,female
+1553,less than high school,False,other,22,male
+1554,High School,True,other,28,female
+1555,Bachelor,False,Birmingham,45,female
+1556,High School,True,other,28,female
+1561,Master,True,other,26,female
+1563,High School,False,London,19,female
+1564,High School,False,other,36,male
+1565,High School,True,Birmingham,74,male
+1566,High School,False,other,27,female
+1567,less than high school,True,Birmingham,61,male
+1568,Master,False,other,25,male
+1569,PhD,False,London,26,female
+1571,High School,False,other,22,female
+1572,less than high school,False,other,23,female
+1573,PhD,False,London,22,female
+1574,Master,False,Birmingham,30,female
+1576,Bachelor,False,Birmingham,64,male
+1577,less than high school,False,other,23,male
+1578,High School,True,other,25,male
+1579,High School,True,other,26,male
+1580,High School,False,London,22,female
+1581,less than high school,False,other,70,male
+1582,less than high school,False,London,69,female
+1583,less than high school,False,other,41,male
+1584,Bachelor,False,other,24,female
+1586,PhD,False,Birmingham,20,male
+1587,High School,True,other,28,female
+1588,Master,False,other,80,female
+1589,High School,False,other,21,male
+1591,High School,False,Birmingham,65,female
+1592,High School,False,other,34,male
+1595,PhD,False,Birmingham,24,male
+1599,High School,False,other,72,male
+1600,Bachelor,True,Birmingham,30,male
+1603,less than high school,False,London,52,female
+1607,Bachelor,False,other,51,female
+1611,Master,False,other,21,male
+1612,Bachelor,False,Birmingham,57,female
+1613,High School,False,other,20,female
+1615,High School,False,other,34,female
+1616,Bachelor,False,London,25,female
+1617,High School,False,Birmingham,22,female
+1619,Master,False,London,22,male
+1620,High School,False,other,72,male
+1621,less than high school,True,other,29,female
+1623,High School,False,other,21,female
+1625,High School,False,other,24,female
+1626,High School,False,other,28,male
+1628,Master,False,London,65,female
+1629,Master,True,other,22,female
+1630,less than high school,True,Birmingham,19,female
+1633,High School,False,London,56,male
+1635,less than high school,True,London,56,female
+1636,less than high school,False,Birmingham,19,female
+1637,Master,True,Birmingham,55,female
+1638,less than high school,True,London,21,male
+1640,Bachelor,False,other,33,female
+1642,High School,False,Birmingham,33,male
+1643,Master,False,other,24,male
+1644,High School,True,Birmingham,34,male
+1650,Master,False,other,22,female
+1651,High School,False,other,64,female
+1653,Bachelor,False,London,18,male
+1655,High School,False,Birmingham,38,female
+1658,less than high school,False,other,23,female
+1659,Master,False,other,22,female
+1660,Bachelor,True,Birmingham,18,female
+1661,High School,False,London,22,male
+1665,High School,False,Birmingham,68,female
+1667,High School,False,other,44,female
+1668,Bachelor,False,other,35,female
+1670,less than high school,False,other,47,female
+1671,High School,True,other,26,female
+1672,High School,False,other,60,female
+1673,PhD,True,Birmingham,25,male
+1674,Master,False,Birmingham,26,female
+1676,Bachelor,True,Birmingham,23,male
+1677,less than high school,False,London,25,female
+1680,High School,False,other,24,female
+1681,less than high school,False,Birmingham,24,male
+1683,High School,False,other,19,female
+1685,High School,True,other,21,female
+1691,Bachelor,False,Birmingham,31,female
+1692,High School,False,other,72,male
+1693,Master,False,other,23,male
+1697,Master,False,Birmingham,28,male
+1698,Master,False,other,38,female
+1699,Bachelor,True,other,19,female
+1701,less than high school,False,other,19,female
+1707,less than high school,False,other,30,male
+1708,less than high school,True,other,33,male
+1710,High School,False,other,34,female
+1711,Master,False,Birmingham,38,female
+1712,High School,False,other,19,male
+1714,High School,False,London,35,male
+1715,High School,True,other,25,female
+1717,less than high school,True,other,28,male
+1719,less than high school,True,London,57,female
+1722,Bachelor,False,London,20,female
+1723,less than high school,False,other,22,male
+1725,High School,False,other,51,female
+1726,Bachelor,False,London,29,male
+1727,High School,True,Birmingham,56,male
+1728,less than high school,False,London,20,male
+1729,High School,False,other,18,female
+1732,High School,False,London,43,female
+1733,High School,False,other,21,female
+1736,Bachelor,False,London,24,female
+1738,High School,False,other,23,male
+1739,High School,False,other,22,male
+1740,Bachelor,False,Birmingham,37,female
+1741,High School,False,London,18,female
+1742,High School,False,other,30,male
+1745,High School,True,other,60,female
+1746,High School,True,Birmingham,23,female
+1747,Bachelor,False,other,66,female
+1748,High School,False,other,70,male
+1750,Bachelor,True,other,66,female
+1753,Bachelor,True,Birmingham,26,female
+1754,Master,True,other,23,female
+1756,High School,False,other,23,male
+1758,less than high school,False,Birmingham,29,female
+1762,Bachelor,False,Birmingham,27,male
+1765,High School,True,other,21,male
+1766,Bachelor,False,Birmingham,47,female
+1767,less than high school,False,Birmingham,58,male
+1769,Master,False,London,35,male
+1770,Bachelor,False,other,22,female
+1772,High School,False,London,32,male
+1774,High School,True,other,24,male
+1775,Master,False,London,19,female
+1777,Bachelor,False,Birmingham,71,male
+1778,Bachelor,False,London,21,female
+1780,Master,True,Birmingham,24,female
+1781,Bachelor,False,other,32,female
+1783,High School,False,other,31,female
+1785,less than high school,False,Birmingham,25,female
+1788,less than high school,False,London,20,female
+1791,Bachelor,False,London,21,female
+1793,less than high school,True,other,21,male
+1796,High School,False,other,24,female
+1797,High School,False,London,18,female
+1798,Bachelor,False,Birmingham,59,female
+1799,Bachelor,False,other,66,female
+1800,Master,False,Birmingham,18,male
+1801,less than high school,False,other,24,female
+1804,Bachelor,False,other,23,female
+1805,High School,False,other,19,female
+1807,High School,False,other,20,female
+1809,PhD,True,other,24,female
+1810,Bachelor,False,other,56,female
+1811,High School,True,Birmingham,55,male
+1812,Master,False,other,21,female
+1813,less than high school,True,Birmingham,23,male
+1815,Bachelor,True,London,20,female
+1817,High School,False,other,25,female
+1818,High School,True,Birmingham,32,male
+1820,Master,False,Birmingham,59,male
+1822,PhD,False,Birmingham,78,male
+1823,High School,True,London,25,female
+1824,High School,False,other,25,male
+1825,less than high school,False,other,26,male
+1827,Master,False,Birmingham,28,female
+1831,High School,True,other,29,female
+1833,less than high school,True,other,28,male
+1837,less than high school,False,Birmingham,21,female
+1838,Master,False,other,23,female
+1839,less than high school,True,other,20,male
+1840,Bachelor,False,Birmingham,55,female
+1841,High School,True,other,50,female
+1842,Master,False,other,52,female
+1843,Bachelor,True,Birmingham,57,female
+1846,Bachelor,True,other,37,male
+1848,High School,False,Birmingham,30,female
+1849,High School,False,Birmingham,30,female
+1850,less than high school,True,other,23,female
+1851,less than high school,True,other,20,female
+1852,High School,True,Birmingham,20,male
+1853,High School,True,other,30,female
+1854,High School,False,Birmingham,57,male
+1859,less than high school,True,other,20,male
+1860,Bachelor,False,Birmingham,28,male
+1863,Bachelor,False,London,19,female
+1865,High School,False,London,20,female
+1866,High School,False,Birmingham,18,female
+1867,Bachelor,False,other,29,female
+1868,High School,False,London,63,male
+1872,Bachelor,True,London,34,female
+1877,High School,False,Birmingham,26,male
+1878,High School,False,other,21,female
+1879,Bachelor,False,Birmingham,21,male
+1880,Bachelor,False,Birmingham,63,female
+1881,Bachelor,True,London,24,male
+1882,less than high school,False,London,22,male
+1883,Bachelor,False,other,24,female
+1884,Bachelor,False,other,19,female
+1886,High School,True,Birmingham,36,female
+1887,High School,False,Birmingham,20,male
+1889,High School,False,other,55,female
+1890,Bachelor,False,other,69,male
+1892,High School,False,other,57,male
+1893,High School,False,Birmingham,37,male
+1895,Bachelor,False,Birmingham,72,male
+1896,Master,True,other,71,male
+1898,less than high school,False,Birmingham,22,male
+1903,less than high school,False,other,24,female
+1905,less than high school,False,Birmingham,26,female
+1906,PhD,False,Birmingham,27,male
+1907,PhD,False,Birmingham,37,male
+1909,PhD,False,other,21,male
+1912,less than high school,True,Birmingham,30,female
+1913,less than high school,False,other,21,female
+1914,High School,True,other,25,female
+1915,High School,False,Birmingham,62,male
+1916,Master,False,other,38,female
+1917,Master,False,Birmingham,59,female
+1918,High School,True,London,33,male
+1920,less than high school,False,other,21,female
+1927,less than high school,False,other,65,male
+1929,High School,True,Birmingham,23,female
+1930,less than high school,False,Birmingham,32,female
+1933,Bachelor,True,Birmingham,32,female
+1938,Bachelor,False,Birmingham,64,female
+1940,High School,False,other,38,female
+1941,Bachelor,False,Birmingham,48,male
+1945,High School,False,other,29,male
+1949,High School,False,Birmingham,18,female
+1952,Master,False,Birmingham,20,female
+1953,Master,False,other,19,female
+1954,High School,False,other,27,male
+1955,Bachelor,True,other,22,male
+1956,High School,False,other,22,female
+1957,High School,False,Birmingham,74,male
+1959,Bachelor,False,other,26,female
+1961,High School,False,other,43,male
+1962,High School,False,London,26,female
+1963,Master,False,Birmingham,21,female
+1964,less than high school,True,Birmingham,31,female
+1967,High School,True,other,26,male
+1969,High School,False,other,36,male
+1970,Bachelor,False,Birmingham,18,female
+1971,PhD,True,London,47,male
+1972,Bachelor,False,Birmingham,19,female
+1974,less than high school,True,London,74,male
+1975,High School,False,London,31,male
+1980,less than high school,True,other,36,male
+1981,Master,False,other,48,male
+1982,Master,False,other,24,female
+1983,Master,False,London,23,female
+1984,High School,True,other,27,male
+1986,Bachelor,True,Birmingham,70,male
+1988,Master,True,Birmingham,26,male
+1989,Bachelor,False,other,25,male
+1991,High School,False,other,25,female
+1993,High School,False,other,19,female
+1995,Bachelor,False,other,20,female
+1998,Master,False,other,22,female
+1999,PhD,False,Birmingham,36,male
+2001,High School,False,other,23,female
+2003,Master,False,Birmingham,25,male
+2005,High School,True,other,22,female
+2007,Master,False,London,18,male
+2008,High School,False,other,34,male
+2012,Bachelor,True,other,22,female
+2013,less than high school,True,other,31,female
+2014,High School,True,Birmingham,57,female
+2015,less than high school,False,London,34,female
+2017,Bachelor,False,Birmingham,42,male
+2018,High School,False,Birmingham,21,male
+2019,High School,False,other,63,male
+2022,less than high school,True,London,66,male
+2024,less than high school,True,other,50,male
+2025,High School,True,Birmingham,37,female
+2026,High School,True,London,59,female
+2028,less than high school,True,London,27,male
+2029,Bachelor,False,other,66,female
+2030,High School,True,other,59,male
+2032,less than high school,False,London,37,female
+2034,High School,False,other,25,male
+2035,High School,False,other,58,female
+2036,less than high school,False,other,20,female
+2039,Bachelor,True,London,51,male
+2042,less than high school,True,Birmingham,23,female
+2044,Bachelor,False,Birmingham,25,male
+2045,High School,False,London,26,female
+2047,High School,False,other,19,female
+2048,PhD,True,Birmingham,33,female
+2049,High School,True,other,72,female
+2051,High School,True,other,21,female
+2053,High School,False,London,19,female
+2055,High School,False,other,32,female
+2057,Bachelor,False,other,25,female
+2058,Bachelor,False,London,19,male
+2059,High School,True,other,51,female
+2060,less than high school,False,Birmingham,74,male
+2061,High School,False,Birmingham,28,male
+2063,High School,False,other,21,male
+2064,Bachelor,True,other,20,female
+2066,Master,False,other,24,male
+2068,less than high school,True,Birmingham,62,female
+2069,High School,True,other,22,male
+2070,Bachelor,False,London,72,male
+2073,PhD,True,London,60,male
+2075,High School,False,other,21,male
+2077,Bachelor,False,other,18,female
+2078,less than high school,False,other,58,male
+2079,less than high school,False,Birmingham,65,male
+2081,High School,False,other,20,female
+2082,Master,False,other,21,female
+2083,less than high school,True,other,36,female
+2084,less than high school,False,other,20,female
+2085,Bachelor,True,other,73,male
+2086,Bachelor,True,London,56,male
+2087,High School,False,Birmingham,20,female
+2088,Master,False,Birmingham,65,male
+2089,Bachelor,False,other,26,female
+2091,less than high school,True,other,47,male
+2092,Bachelor,False,London,23,male
+2093,High School,False,Birmingham,47,female
+2095,less than high school,False,London,22,male
+2096,High School,True,London,61,male
+2097,Master,False,other,24,female
+2098,High School,True,other,25,female
+2099,High School,True,other,41,female
+2100,Master,False,other,31,female
+2101,High School,False,Birmingham,62,male
+2102,Bachelor,False,Birmingham,62,female
+2106,Master,False,London,27,female
+2107,Bachelor,False,Birmingham,52,male
+2109,Master,True,Birmingham,72,male
+2111,High School,False,other,61,female
+2112,Master,True,other,20,female
+2114,High School,False,other,23,male
+2115,High School,True,Birmingham,62,male
+2118,Master,False,Birmingham,21,female
+2119,Master,False,Birmingham,27,female
+2120,Bachelor,False,Birmingham,24,male
+2121,High School,False,other,33,male
+2123,High School,False,other,25,female
+2124,Bachelor,True,other,29,female
+2125,Bachelor,True,Birmingham,27,male
+2126,PhD,False,Birmingham,68,male
+2128,High School,False,Birmingham,25,female
+2131,less than high school,True,Birmingham,35,female
+2132,High School,False,other,58,male
+2133,less than high school,False,Birmingham,23,male
+2134,less than high school,False,Birmingham,45,female
+2135,High School,False,Birmingham,32,female
+2136,less than high school,False,other,19,female
+2137,High School,True,other,21,female
+2139,High School,True,London,28,male
+2142,Bachelor,False,other,18,male
+2143,less than high school,False,other,28,male
+2144,High School,False,Birmingham,35,male
+2147,Master,False,other,22,male
+2148,High School,False,Birmingham,20,male
+2149,High School,False,Birmingham,66,male
+2150,Master,False,London,67,male
+2151,Bachelor,False,Birmingham,22,female
+2152,Bachelor,True,Birmingham,33,female
+2153,Master,True,other,22,male
+2154,Bachelor,False,other,51,female
+2155,Bachelor,False,Birmingham,33,female
+2156,PhD,True,other,23,female
+2158,less than high school,False,other,30,female
+2160,High School,False,Birmingham,36,female
+2162,less than high school,False,other,24,female
+2164,Master,False,other,37,female
+2166,High School,False,London,20,female
+2167,High School,True,other,27,male
+2168,less than high school,True,London,69,male
+2173,less than high school,False,London,45,male
+2175,Bachelor,False,other,26,male
+2176,less than high school,True,London,20,male
+2177,High School,True,Birmingham,27,male
+2179,Bachelor,True,other,37,female
+2180,High School,False,London,18,female
+2182,Bachelor,False,other,69,male
+2183,High School,False,other,22,male
+2186,High School,True,Birmingham,21,male
+2187,High School,False,other,19,female
+2188,High School,False,Birmingham,25,female
+2189,Master,False,London,50,male
+2195,High School,False,other,64,female
+2196,High School,True,other,72,male
+2197,less than high school,False,London,24,male
+2198,Master,False,London,26,female
+2204,Bachelor,True,other,20,male
+2208,PhD,False,Birmingham,26,female
+2211,Master,False,Birmingham,60,male
+2214,Bachelor,True,other,24,female
+2215,Master,False,other,21,female
+2217,High School,True,other,37,male
+2220,Bachelor,True,other,20,male
+2226,PhD,False,London,31,female
+2229,High School,True,Birmingham,54,female
+2230,High School,True,Birmingham,53,female
+2231,Bachelor,True,other,54,male
+2232,High School,False,London,20,female
+2236,High School,False,other,73,male
+2237,less than high school,False,London,65,female
+2238,less than high school,True,London,24,male
+2242,High School,False,other,42,female
+2243,Master,True,Birmingham,27,female
+2244,less than high school,True,other,64,female
+2246,High School,False,Birmingham,66,female
+2247,less than high school,False,other,24,female
+2249,Bachelor,False,Birmingham,20,female
+2252,Master,False,other,29,female
+2253,less than high school,True,London,29,female
+2254,High School,True,other,36,male
+2256,Master,False,London,23,female
+2258,Bachelor,False,other,21,female
+2259,Master,False,London,56,female
+2263,High School,False,Birmingham,61,male
+2264,Master,False,London,19,female
+2265,High School,False,other,18,female
+2269,High School,True,Birmingham,22,male
+2271,Master,True,London,62,male
+2273,Master,True,London,48,male
+2274,Master,False,other,31,female
+2276,High School,False,other,26,female
+2277,High School,False,London,33,female
+2279,Bachelor,True,Birmingham,65,male
+2280,High School,True,Birmingham,42,male
+2281,High School,False,Birmingham,34,female
+2282,Bachelor,True,Birmingham,30,female
+2283,Bachelor,True,other,61,male
+2284,less than high school,False,London,59,female
+2285,Bachelor,False,Birmingham,56,male
+2286,less than high school,False,other,51,female
+2287,Master,False,other,24,female
+2288,Bachelor,True,other,70,male
+2290,Master,True,other,54,female
+2291,High School,True,Birmingham,34,female
+2295,Master,False,other,37,female
+2297,High School,False,other,18,female
+2298,Master,False,other,24,female
+2299,High School,False,other,21,female
+2300,less than high school,False,other,25,male
+2304,Bachelor,False,Birmingham,32,female
+2305,less than high school,False,Birmingham,21,male
+2306,High School,True,other,38,male
+2308,Master,False,London,24,female
+2310,High School,False,Birmingham,27,male
+2311,High School,False,London,36,male
+2312,less than high school,False,London,29,female
+2313,High School,True,other,43,female
+2314,High School,False,Birmingham,21,male
+2316,High School,True,London,35,male
+2317,less than high school,False,Birmingham,28,female
+2318,less than high school,False,Birmingham,20,male
+2319,less than high school,False,other,33,male
+2320,Bachelor,False,other,47,female
+2321,High School,False,London,45,female
+2322,Bachelor,False,other,20,female
+2323,Master,False,Birmingham,36,female
+2325,High School,False,other,52,male
+2327,less than high school,False,other,69,male
+2328,Master,False,Birmingham,23,female
+2330,High School,True,London,33,female
+2331,Master,False,other,20,female
+2332,Bachelor,True,Birmingham,23,female
+2333,Master,True,Birmingham,73,male
+2334,less than high school,False,Birmingham,25,male
+2335,Bachelor,True,London,36,female
+2337,less than high school,True,other,24,female
+2340,less than high school,False,London,26,female
+2342,less than high school,True,other,29,female
+2343,Master,False,other,72,male
+2347,High School,True,other,52,female
+2348,High School,True,Birmingham,23,female
+2350,less than high school,False,other,27,male
+2351,less than high school,False,London,63,female
+2353,Bachelor,True,Birmingham,24,male
+2354,Master,True,other,34,male
+2355,Master,True,other,64,female
+2356,less than high school,False,Birmingham,25,female
+2357,less than high school,True,Birmingham,24,male
+2358,High School,True,London,22,female
+2361,less than high school,True,Birmingham,63,female
+2362,High School,True,other,24,female
+2363,Master,True,Birmingham,20,female
+2364,Bachelor,False,other,75,male
+2367,High School,False,other,20,female
+2368,High School,False,London,22,female
+2369,Bachelor,False,London,24,female
+2370,Bachelor,False,Birmingham,34,female
+2371,Bachelor,True,Birmingham,74,male
+2373,High School,False,Birmingham,21,female
+2374,Bachelor,True,other,68,male
+2376,less than high school,False,other,22,female
+2377,Master,False,other,21,male
+2382,Master,False,Birmingham,23,male
+2383,High School,True,other,22,male
+2384,less than high school,True,London,25,female
+2386,less than high school,True,London,18,male
+2389,High School,False,Birmingham,30,female
+2390,less than high school,False,Birmingham,36,male
+2391,Bachelor,False,other,30,female
+2394,Master,True,Birmingham,21,female
+2396,less than high school,False,Birmingham,21,female
+2398,High School,False,other,27,male
+2399,less than high school,False,Birmingham,24,female
+2400,High School,False,Birmingham,31,female
+2401,less than high school,True,Birmingham,62,male
+2403,High School,False,other,37,male
+2404,High School,False,other,21,female
+2405,Bachelor,True,London,25,male
+2406,less than high school,False,London,25,female
+2411,High School,False,Birmingham,65,female
+2413,less than high school,True,other,49,female
+2415,Bachelor,False,other,29,male
+2416,PhD,False,Birmingham,69,male
+2417,Bachelor,False,other,32,female
+2419,High School,True,other,19,female
+2420,Master,False,other,21,female
+2422,High School,False,other,24,male
+2423,Bachelor,False,Birmingham,28,female
+2424,less than high school,False,other,21,male
+2426,High School,False,other,49,male
+2427,Bachelor,False,Birmingham,24,male
+2430,High School,False,other,29,male
+2431,Master,True,London,33,female
+2432,Bachelor,False,Birmingham,56,male
+2433,PhD,False,Birmingham,64,male
+2436,Bachelor,False,other,27,female
+2438,High School,True,London,26,male
+2439,Master,False,Birmingham,23,female
+2440,less than high school,False,other,26,female
+2441,Bachelor,True,Birmingham,61,male
+2443,PhD,True,London,23,male
+2445,less than high school,False,Birmingham,22,female
+2448,High School,True,other,21,female
+2450,less than high school,False,London,53,female
+2451,less than high school,True,other,38,female
+2453,less than high school,True,Birmingham,19,female
+2454,Master,False,Birmingham,37,male
+2455,less than high school,True,Birmingham,18,female
+2456,Bachelor,False,other,57,female
+2457,Master,True,other,37,male
+2458,Bachelor,False,Birmingham,34,female
+2460,less than high school,False,other,65,male
+2461,Master,False,London,20,female
+2464,Bachelor,False,Birmingham,21,female
+2465,Bachelor,False,Birmingham,37,male
+2468,High School,True,Birmingham,29,female
+2471,Bachelor,False,London,23,male
+2473,PhD,False,Birmingham,34,male
+2474,Master,False,Birmingham,33,male
+2475,Bachelor,False,Birmingham,20,male
+2476,Bachelor,False,other,59,female
+2477,Master,False,Birmingham,18,female
+2479,Bachelor,True,other,27,male
+2481,Master,False,Birmingham,25,male
+2482,High School,False,other,30,female
+2484,High School,False,other,30,male
+2485,High School,True,London,69,female
+2486,High School,False,other,22,male
+2487,High School,False,other,21,male
+2488,High School,False,Birmingham,24,female
+2491,Master,False,other,37,female
+2492,Bachelor,True,Birmingham,75,female
+2493,High School,False,other,33,male
+2496,Bachelor,False,other,32,male
+2497,Bachelor,False,London,19,female
+2498,Bachelor,False,Birmingham,31,female
+2499,less than high school,False,other,20,male
+2501,High School,False,London,22,female
+2502,High School,True,other,18,female
+2503,less than high school,True,Birmingham,19,female
+2504,Master,False,Birmingham,20,female
+2505,Bachelor,False,other,22,male
+2506,High School,False,other,19,female
+2510,Bachelor,False,Birmingham,36,female
+2511,Bachelor,False,other,22,male
+2514,less than high school,False,other,24,female
+2516,Master,False,other,58,male
+2517,High School,False,Birmingham,33,female
+2519,less than high school,False,Birmingham,46,female
+2524,Bachelor,False,other,24,female
+2525,High School,False,other,23,male
+2526,PhD,False,other,33,male
+2530,less than high school,False,other,22,female
+2531,less than high school,True,other,49,male
+2532,less than high school,True,other,43,female
+2536,less than high school,False,Birmingham,23,female
+2537,less than high school,False,other,32,male
+2538,High School,True,Birmingham,20,female
+2539,less than high school,True,London,28,female
+2540,less than high school,False,other,47,male
+2542,Master,True,other,28,female
+2544,PhD,False,London,33,male
+2545,less than high school,False,other,22,female
+2546,less than high school,False,other,29,female
+2547,less than high school,True,Birmingham,22,female
+2548,Bachelor,True,other,22,female
+2549,Bachelor,False,other,25,female
+2550,Bachelor,False,Birmingham,30,female
+2554,High School,True,other,54,male
+2556,High School,False,other,21,male
+2558,High School,True,other,25,male
+2559,Bachelor,False,London,29,female
+2562,less than high school,False,Birmingham,46,male
+2564,High School,False,Birmingham,33,female
+2569,less than high school,False,other,21,female
+2570,less than high school,False,other,73,female
+2571,High School,True,Birmingham,25,female
+2572,High School,False,other,41,female
+2573,High School,False,London,39,female
+2576,Bachelor,False,other,35,male
+2577,High School,False,other,21,female
+2579,Bachelor,False,Birmingham,23,male
+2580,High School,True,other,19,female
+2583,Bachelor,False,other,26,male
+2585,Bachelor,True,Birmingham,43,female
+2589,Bachelor,True,Birmingham,24,male
+2590,Bachelor,False,Birmingham,44,female
+2591,High School,False,Birmingham,24,male
+2592,less than high school,True,other,60,male
+2593,High School,False,other,66,female
+2594,Master,False,Birmingham,20,female
+2595,High School,True,Birmingham,59,female
+2596,less than high school,False,other,45,female
+2598,High School,True,other,39,female
+2601,less than high school,True,London,67,male
+2602,less than high school,False,Birmingham,28,female
+2604,High School,True,other,21,male
+2605,High School,False,other,52,male
+2606,High School,True,other,69,male
+2607,less than high school,False,Birmingham,19,female
+2611,Bachelor,False,Birmingham,58,female
+2612,High School,True,other,37,female
+2613,High School,False,other,69,female
+2614,Bachelor,False,other,24,male
+2615,less than high school,True,Birmingham,65,male
+2616,Bachelor,False,other,26,female
+2617,High School,True,Birmingham,72,male
+2619,Master,False,Birmingham,26,male
+2628,High School,False,Birmingham,21,female
+2629,High School,False,other,41,female
+2631,less than high school,False,other,24,female
+2632,High School,False,Birmingham,26,female
+2633,less than high school,False,other,39,female
+2636,less than high school,False,Birmingham,22,female
+2638,Bachelor,False,other,25,female
+2639,High School,False,London,21,female
+2641,High School,False,Birmingham,26,female
+2642,less than high school,False,Birmingham,20,male
+2644,Master,False,other,22,male
+2645,less than high school,False,Birmingham,24,female
+2646,High School,False,other,65,male
+2647,Bachelor,False,London,23,male
+2648,Master,False,Birmingham,64,female
+2649,Master,False,London,58,female
+2650,less than high school,False,Birmingham,21,female
+2652,Bachelor,False,other,54,male
+2653,High School,True,London,21,female
+2658,less than high school,True,other,24,female
+2659,Bachelor,False,other,32,female
+2661,PhD,False,other,42,female
+2663,less than high school,False,Birmingham,73,male
+2664,Master,False,Birmingham,57,female
+2667,High School,False,Birmingham,20,male
+2668,Bachelor,False,other,22,male
+2671,Master,False,Birmingham,19,female
+2672,Master,False,Birmingham,53,female
+2673,Bachelor,False,other,20,female
+2674,Bachelor,False,London,45,female
+2675,less than high school,False,Birmingham,21,male
+2676,High School,False,other,21,male
+2677,Master,True,other,29,female
+2678,less than high school,False,other,33,male
+2680,less than high school,False,London,21,female
+2681,less than high school,True,other,20,male
+2682,less than high school,False,other,19,female
+2683,Master,False,Birmingham,37,male
+2685,High School,False,other,26,male
+2686,PhD,True,other,33,female
+2687,Bachelor,True,London,20,female
+2688,Bachelor,False,other,61,female
+2689,High School,False,other,73,male
+2690,less than high school,True,Birmingham,67,female
+2691,High School,False,London,31,female
+2692,Bachelor,False,London,23,female
+2693,less than high school,False,London,23,female
+2694,Master,True,other,34,male
+2695,High School,False,London,28,male
+2696,High School,True,other,25,female
+2697,PhD,False,London,26,female
+2699,Bachelor,True,London,24,female
+2700,Bachelor,False,Birmingham,44,female
+2701,High School,False,London,21,female
+2702,Master,False,other,23,male
+2703,Bachelor,True,Birmingham,27,female
+2704,High School,False,other,21,male
+2705,High School,True,Birmingham,19,female
+2706,High School,False,other,31,female
+2707,High School,False,other,20,male
+2708,Bachelor,False,Birmingham,53,male
+2710,Master,False,other,72,male
+2711,High School,False,Birmingham,23,female
+2713,High School,False,other,20,female
+2715,High School,False,Birmingham,58,male
+2717,less than high school,False,other,34,female
+2718,Master,True,other,58,female
+2719,Bachelor,False,Birmingham,21,female
+2720,High School,True,Birmingham,23,female
+2722,Bachelor,False,other,54,female
+2723,Bachelor,False,other,18,female
+2724,Bachelor,False,other,29,male
+2725,Master,True,other,29,female
+2727,High School,False,other,59,female
+2728,Master,False,London,25,female
+2730,Master,False,other,52,male
+2731,Bachelor,False,other,22,female
+2732,High School,False,Birmingham,20,male
+2735,less than high school,False,London,37,male
+2736,High School,False,other,34,female
+2737,High School,False,other,47,female
+2738,Master,True,Birmingham,23,female
+2739,Bachelor,False,Birmingham,28,female
+2740,Bachelor,False,other,26,female
+2742,Master,False,Birmingham,22,male
+2743,High School,False,other,73,male
+2746,Bachelor,False,Birmingham,26,male
+2749,less than high school,False,Birmingham,27,male
+2750,less than high school,False,other,24,female
+2752,High School,False,Birmingham,21,female
+2753,High School,True,Birmingham,37,female
+2754,less than high school,False,London,20,female
+2755,Bachelor,False,other,22,female
+2756,Master,False,Birmingham,32,male
+2758,High School,False,Birmingham,19,female
+2759,less than high school,True,London,71,female
+2760,Bachelor,False,other,26,male
+2761,Bachelor,False,Birmingham,21,male
+2762,less than high school,True,other,78,female
+2763,Bachelor,False,London,57,female
+2764,High School,False,London,60,male
+2765,Master,True,London,18,female
+2767,Master,False,other,29,male
+2769,Bachelor,False,other,24,female
+2773,less than high school,True,Birmingham,22,male
+2774,less than high school,True,London,23,male
+2775,Master,False,other,24,female
+2776,PhD,False,other,71,male
+2779,Bachelor,False,other,33,female
+2780,Master,False,London,50,male
+2782,Bachelor,False,other,26,male
+2783,less than high school,False,Birmingham,22,female
+2785,Bachelor,False,Birmingham,42,male
+2786,Bachelor,True,other,21,male
+2787,High School,True,other,29,female
+2789,Bachelor,False,other,23,male
+2790,less than high school,False,London,54,male
+2791,Bachelor,False,Birmingham,29,male
+2792,High School,True,other,30,male
+2794,less than high school,True,other,56,female
+2796,less than high school,False,London,19,female
+2798,High School,False,other,58,female
+2801,Bachelor,False,other,32,female
+2802,High School,False,Birmingham,26,male
+2803,High School,False,Birmingham,21,female
+2806,less than high school,True,other,31,female
+2807,less than high school,True,other,36,male
+2808,Bachelor,False,Birmingham,66,male
+2811,Master,False,Birmingham,72,female
+2813,Bachelor,False,Birmingham,23,female
+2814,less than high school,False,other,21,female
+2815,Bachelor,False,Birmingham,69,female
+2816,Bachelor,True,Birmingham,20,female
+2818,Bachelor,False,other,26,male
+2820,Master,False,other,24,male
+2821,Master,False,London,30,female
+2822,less than high school,False,London,44,female
+2823,Bachelor,False,Birmingham,66,female
+2824,Bachelor,False,London,23,male
+2825,High School,False,other,24,female
+2826,Master,False,other,22,female
+2827,Bachelor,False,other,23,female
+2828,PhD,False,Birmingham,48,female
+2829,less than high school,False,London,28,female
+2831,Master,False,other,20,female
+2832,High School,False,other,68,female
+2833,Master,True,Birmingham,26,female
+2834,less than high school,True,other,23,female
+2835,Master,True,other,26,female
+2837,Bachelor,False,Birmingham,27,female
+2840,Master,True,other,25,female
+2845,High School,False,other,21,female
+2846,Bachelor,False,other,66,female
+2847,PhD,False,London,36,female
+2848,less than high school,True,other,22,female
+2849,Master,True,Birmingham,19,female
+2850,Bachelor,False,London,29,female
+2851,Bachelor,False,Birmingham,21,female
+2852,Bachelor,True,London,24,female
+2853,High School,True,Birmingham,43,male
+2855,Bachelor,True,Birmingham,30,female
+2857,less than high school,True,London,52,male
+2858,Master,False,London,36,female
+2859,less than high school,False,Birmingham,34,male
+2861,Bachelor,False,other,21,male
+2862,less than high school,False,London,20,female
+2864,High School,True,other,62,female
+2865,less than high school,True,London,65,male
+2867,High School,False,other,21,female
+2868,PhD,True,other,24,female
+2870,High School,False,other,24,male
+2873,less than high school,True,Birmingham,23,female
+2874,High School,False,other,22,male
+2875,High School,True,Birmingham,21,female
+2877,PhD,False,other,66,male
+2881,Master,False,Birmingham,30,male
+2882,High School,True,Birmingham,68,male
+2883,less than high school,True,Birmingham,65,male
+2885,High School,True,other,23,male
+2886,less than high school,False,other,18,female
+2889,Bachelor,False,Birmingham,25,male
+2891,less than high school,True,other,42,male
+2892,Bachelor,False,London,44,male
+2893,Bachelor,False,other,69,male
+2895,PhD,False,Birmingham,21,female
+2896,Bachelor,False,London,23,female
+2897,less than high school,False,Birmingham,29,male
+2898,Bachelor,True,other,74,male
+2899,less than high school,False,other,33,female
+2901,less than high school,True,other,48,female
+2903,PhD,True,Birmingham,26,female
+2904,PhD,False,Birmingham,21,male
+2906,Bachelor,False,other,22,female
+2907,Master,False,Birmingham,55,female
+2908,High School,False,other,20,female
+2909,Master,False,Birmingham,34,female
+2910,less than high school,False,London,35,male
+2911,High School,False,other,22,female
+2913,Master,True,Birmingham,33,female
+2916,less than high school,True,Birmingham,36,female
+2919,Master,False,other,21,male
+2923,Master,False,Birmingham,24,female
+2926,High School,True,Birmingham,64,female
+2928,Master,False,other,23,female
+2929,Bachelor,False,other,20,female
+2930,High School,True,London,45,female
+2931,Bachelor,False,other,59,male
+2932,less than high school,True,other,20,male
+2933,High School,False,Birmingham,20,female
+2939,less than high school,False,other,54,male
+2942,PhD,False,Birmingham,28,female
+2943,less than high school,True,Birmingham,78,male
+2946,Master,True,other,73,male
+2948,Master,False,Birmingham,72,male
+2949,Bachelor,False,other,59,male
+2950,High School,False,London,35,male
+2951,High School,False,other,22,male
+2952,less than high school,True,other,49,female
+2953,High School,False,Birmingham,25,female
+2954,less than high school,False,other,24,female
+2955,Bachelor,False,London,23,male
+2957,High School,False,other,22,female
+2958,High School,False,other,32,female
+2959,less than high school,False,Birmingham,32,male
+2960,PhD,False,other,26,female
+2962,High School,False,Birmingham,26,male
+2963,High School,True,other,51,male
+2964,High School,False,Birmingham,25,female
+2965,Master,False,Birmingham,39,female
+2967,Master,True,London,60,female
+2968,less than high school,True,other,23,male
+2970,Bachelor,False,Birmingham,39,female
+2971,Bachelor,False,London,30,female
+2973,Master,False,Birmingham,23,female
+2975,PhD,False,Birmingham,18,female
+2977,Bachelor,False,other,37,male
+2978,Master,False,other,20,female
+2979,High School,False,other,21,female
+2980,High School,False,other,21,male
+2981,Bachelor,False,Birmingham,23,male
+2982,Master,False,other,30,female
+2983,Master,False,London,23,male
+2984,Master,False,other,51,female
+2985,High School,False,London,23,male
+2986,Master,False,other,26,female
+2988,less than high school,True,other,30,male
+2990,Bachelor,False,other,24,male
+2992,High School,False,other,22,female
+2995,Master,False,other,52,female
+2997,Master,False,London,43,female
+2998,Master,False,other,53,female
+3000,Bachelor,True,London,57,male
+3001,Master,False,London,22,female
+3002,High School,False,Birmingham,51,male
+3005,High School,False,London,31,female
+3006,Bachelor,False,Birmingham,29,female
+3007,less than high school,False,Birmingham,48,male
+3009,Bachelor,False,London,18,male
+3010,High School,False,other,24,female
+3011,Master,False,other,24,female
+3012,Bachelor,False,Birmingham,54,male
+3014,Master,True,Birmingham,19,female
+3015,less than high school,True,London,20,female
+3016,less than high school,False,other,26,female
+3018,less than high school,False,other,37,female
+3019,Master,False,other,58,male
+3021,High School,True,other,29,female
+3022,Master,False,London,62,female
+3023,Bachelor,False,Birmingham,37,male
+3024,Bachelor,False,other,20,female
+3025,Bachelor,False,Birmingham,62,male
+3028,Bachelor,False,other,26,female
+3029,Master,False,London,26,male
+3030,High School,False,other,47,male
+3031,Bachelor,False,other,62,male
+3032,PhD,False,Birmingham,55,male
+3033,High School,True,Birmingham,41,female
+3036,Master,False,other,21,female
+3037,Bachelor,True,Birmingham,24,male
+3038,High School,False,Birmingham,36,female
+3039,less than high school,True,other,63,male
+3040,Bachelor,False,London,28,female
+3041,Bachelor,False,other,26,female
+3042,Master,False,other,20,female
+3043,Bachelor,True,other,29,male
+3044,Bachelor,False,Birmingham,55,male
+3045,Master,True,Birmingham,25,female
+3050,Master,False,Birmingham,25,male
+3051,High School,False,other,22,male
+3053,High School,False,Birmingham,18,female
+3056,Bachelor,False,Birmingham,59,male
+3057,less than high school,True,Birmingham,18,female
+3059,Bachelor,True,other,18,female
+3060,less than high school,False,other,23,female
+3061,Master,False,other,27,male
+3063,Master,True,Birmingham,25,female
+3066,High School,False,Birmingham,22,male
+3068,Master,True,other,21,female
+3069,Bachelor,True,London,62,female
+3070,Bachelor,False,London,20,female
+3071,Master,False,other,25,female
+3074,Bachelor,True,Birmingham,20,male
+3075,High School,True,Birmingham,37,male
+3076,Bachelor,False,other,22,male
+3077,less than high school,False,London,32,female
+3080,High School,False,Birmingham,42,female
+3083,Master,False,Birmingham,20,female
+3085,Master,False,other,33,female
+3087,Bachelor,True,other,26,male
+3089,High School,True,other,63,male
+3091,less than high school,True,Birmingham,24,male
+3094,High School,False,other,22,male
+3096,Bachelor,False,Birmingham,61,male
+3097,High School,False,Birmingham,46,female
+3098,High School,True,London,32,female
+3099,Bachelor,False,other,19,female
+3100,Master,True,other,33,female
+3104,High School,True,Birmingham,23,female
+3105,High School,False,Birmingham,42,male
+3107,less than high school,False,other,70,male
+3108,Master,False,Birmingham,26,female
+3110,Bachelor,False,other,69,female
+3112,less than high school,True,other,20,female
+3113,Bachelor,False,other,62,male
+3114,less than high school,False,Birmingham,60,male
+3115,High School,False,other,21,male
+3117,Bachelor,False,other,67,male
+3120,Bachelor,False,Birmingham,72,female
+3122,Master,False,Birmingham,62,male
+3124,less than high school,True,other,32,male
+3125,Bachelor,False,other,19,male
+3126,Bachelor,False,other,56,female
+3127,Master,False,London,36,female
+3128,less than high school,True,Birmingham,26,female
+3129,Bachelor,True,other,31,female
+3130,Master,False,other,74,male
+3133,less than high school,False,London,41,male
+3134,Bachelor,True,Birmingham,48,male
+3137,less than high school,False,Birmingham,20,female
+3138,Master,True,Birmingham,22,female
+3139,Bachelor,True,Birmingham,23,male
+3141,Master,False,Birmingham,65,male
+3142,Bachelor,False,Birmingham,28,male
+3144,Bachelor,False,London,62,female
+3145,High School,False,other,24,female
+3147,High School,False,London,34,female
+3148,High School,False,other,38,female
+3151,Bachelor,False,London,24,female
+3152,High School,False,other,49,female
+3153,High School,False,other,22,female
+3154,Master,True,London,74,male
+3157,High School,False,Birmingham,30,male
+3159,Bachelor,False,Birmingham,22,male
+3160,Master,True,Birmingham,23,male
+3163,Master,False,Birmingham,24,female
+3164,PhD,False,other,70,female
+3165,Master,True,other,56,female
+3167,less than high school,False,Birmingham,20,female
+3168,Bachelor,False,Birmingham,28,female
+3169,Master,False,Birmingham,21,female
+3170,Bachelor,False,other,21,female
+3171,Master,False,other,24,female
+3175,Bachelor,False,other,28,female
+3176,Bachelor,False,Birmingham,37,male
+3177,High School,True,other,36,male
+3179,Master,False,other,54,female
+3180,High School,False,other,24,male
+3181,less than high school,False,Birmingham,35,male
+3182,High School,True,other,18,male
+3183,less than high school,True,other,38,female
+3187,less than high school,False,London,28,female
+3189,High School,False,other,69,female
+3190,less than high school,False,Birmingham,24,female
+3191,High School,False,London,48,female
+3192,High School,False,London,31,female
+3193,High School,True,Birmingham,22,male
+3194,less than high school,True,other,27,female
+3195,High School,False,other,26,female
+3197,Master,False,other,64,male
+3198,Master,False,London,21,female
+3201,High School,False,other,31,female
+3202,PhD,False,Birmingham,22,female
+3203,Master,False,other,22,female
+3205,High School,False,Birmingham,23,male
+3208,High School,True,Birmingham,19,female
+3209,High School,False,London,20,female
+3210,Master,False,other,55,male
+3211,Master,False,Birmingham,22,female
+3212,High School,False,other,23,female
+3213,less than high school,True,Birmingham,25,female
+3214,High School,True,Birmingham,21,female
+3216,Bachelor,False,Birmingham,26,female
+3219,Bachelor,False,other,21,male
+3220,Bachelor,False,Birmingham,64,male
+3221,High School,True,London,59,male
+3222,High School,False,other,65,female
+3223,High School,True,Birmingham,36,female
+3225,less than high school,False,London,37,female
+3227,Master,False,other,44,male
+3228,Master,False,Birmingham,20,female
+3231,less than high school,False,other,20,female
+3233,High School,False,London,21,male
+3234,less than high school,False,London,26,female
+3236,Bachelor,True,Birmingham,35,male
+3237,Bachelor,False,Birmingham,23,female
+3238,Bachelor,False,other,19,female
+3240,Bachelor,True,Birmingham,28,female
+3241,less than high school,True,London,25,male
+3246,Bachelor,True,other,22,female
+3247,Master,False,Birmingham,21,male
+3248,Master,False,Birmingham,23,female
+3249,Master,False,London,23,female
+3251,High School,False,other,74,female
+3253,Bachelor,False,other,20,female
+3255,Bachelor,False,other,62,male
+3256,Master,False,other,47,female
+3257,Bachelor,False,other,23,male
+3260,Master,False,Birmingham,26,female
+3263,less than high school,False,London,30,male
+3265,High School,True,other,42,male
+3266,Bachelor,True,Birmingham,32,male
+3268,Bachelor,False,other,24,female
+3269,Master,False,other,22,female
+3272,less than high school,False,Birmingham,46,female
+3274,less than high school,False,Birmingham,43,female
+3278,Master,True,Birmingham,39,female
+3280,less than high school,False,other,21,female
+3281,Bachelor,True,Birmingham,65,male
+3282,High School,False,other,24,male
+3285,less than high school,True,Birmingham,30,female
+3286,less than high school,False,London,19,female
+3288,High School,False,other,28,male
+3289,Bachelor,False,other,58,female
+3290,less than high school,False,other,73,male
+3292,High School,False,other,23,female
+3293,less than high school,True,other,22,male
+3294,less than high school,False,Birmingham,62,male
+3299,Master,False,other,27,female
+3301,High School,False,other,27,female
+3304,Bachelor,False,Birmingham,29,male
+3305,High School,False,other,29,male
+3307,PhD,True,other,37,male
+3308,High School,False,Birmingham,63,male
+3311,High School,False,other,24,male
+3312,High School,False,London,58,male
+3314,Bachelor,False,other,24,female
+3317,Master,False,other,22,female
+3319,less than high school,True,other,20,female
+3321,High School,False,Birmingham,20,female
+3324,less than high school,True,Birmingham,21,female
+3326,Bachelor,False,London,18,female
+3327,Master,False,London,65,female
+3328,less than high school,True,other,20,female
+3332,less than high school,True,Birmingham,68,male
+3333,less than high school,True,other,37,female
+3334,less than high school,True,other,22,female
+3335,High School,False,other,24,female
+3336,High School,True,other,24,female
+3338,High School,False,Birmingham,21,female
+3340,Bachelor,False,other,38,female
+3341,less than high school,True,London,58,male
+3345,less than high school,False,other,36,male
+3346,Bachelor,False,other,37,female
+3347,PhD,False,Birmingham,20,male
+3350,High School,True,other,22,female
+3352,Master,True,Birmingham,25,male
+3353,High School,False,London,49,female
+3354,less than high school,True,other,19,female
+3357,Bachelor,False,Birmingham,52,female
+3360,less than high school,False,other,23,male
+3361,High School,False,other,64,male
+3362,High School,False,other,42,male
+3363,less than high school,True,other,18,female
+3366,High School,True,other,52,female
+3368,less than high school,False,other,66,female
+3371,Bachelor,True,other,18,female
+3372,High School,False,Birmingham,28,female
+3374,Master,False,other,21,female
+3376,PhD,False,other,24,male
+3378,less than high school,False,Birmingham,25,female
+3379,High School,False,other,26,female
+3381,less than high school,False,Birmingham,27,male
+3382,less than high school,False,other,26,female
+3383,High School,True,Birmingham,37,male
+3385,Bachelor,False,London,64,female
+3388,Bachelor,False,other,22,male
+3389,PhD,False,Birmingham,23,male
+3390,less than high school,True,other,58,male
+3391,Master,False,London,22,male
+3392,High School,False,London,28,female
+3395,Bachelor,False,other,24,female
+3396,High School,True,other,67,male
+3397,High School,False,Birmingham,37,female
+3400,High School,False,Birmingham,21,female
+3401,less than high school,False,Birmingham,28,female
+3404,Bachelor,False,other,52,female
+3405,High School,False,Birmingham,44,female
+3407,Bachelor,False,other,20,female
+3408,High School,True,London,29,male
+3409,High School,False,other,24,female
+3410,High School,False,other,20,male
+3411,less than high school,False,London,60,male
+3413,less than high school,False,other,66,female
+3415,High School,False,Birmingham,67,female
+3416,less than high school,False,Birmingham,25,female
+3417,High School,True,Birmingham,23,male
+3418,Bachelor,True,other,21,female
+3420,Master,False,Birmingham,22,female
+3421,Bachelor,True,London,36,female
+3422,High School,False,London,23,male
+3423,High School,False,other,35,female
+3428,Bachelor,False,Birmingham,24,male
+3430,High School,True,other,22,male
+3431,Bachelor,False,Birmingham,23,male
+3432,less than high school,False,other,61,male
+3436,High School,False,other,33,female
+3438,Master,False,London,38,male
+3442,Bachelor,True,London,20,female
+3443,Master,True,other,73,male
+3453,less than high school,False,other,25,female
+3455,High School,False,other,33,female
+3456,less than high school,False,other,34,female
+3457,less than high school,True,Birmingham,19,female
+3459,Bachelor,False,London,21,female
+3460,High School,False,other,19,male
+3461,Bachelor,False,Birmingham,21,male
+3462,Master,False,Birmingham,62,female
+3466,High School,True,other,67,male
+3467,High School,False,other,30,male
+3468,less than high school,True,other,50,female
+3471,Bachelor,False,Birmingham,32,female
+3472,High School,False,London,59,female
+3475,High School,True,other,32,female
+3477,High School,False,London,21,male
+3478,Bachelor,True,other,40,female
+3479,less than high school,True,other,26,female
+3480,Bachelor,False,other,19,female
+3482,Bachelor,True,other,68,male
+3483,High School,True,Birmingham,21,male
+3484,Bachelor,False,other,31,female
+3485,less than high school,True,Birmingham,20,female
+3488,Bachelor,True,other,23,female
+3490,High School,True,other,22,male
+3492,High School,False,Birmingham,37,male
+3493,High School,True,other,23,male
+3494,High School,True,Birmingham,36,male
+3495,High School,True,other,28,female
+3496,High School,False,London,19,female
+3497,less than high school,False,other,22,female
+3498,High School,False,other,18,female
+3499,less than high school,True,Birmingham,25,female
+3501,High School,False,Birmingham,42,male
+3504,Bachelor,False,other,50,female
+3506,PhD,False,other,31,male
+3507,Bachelor,False,other,23,male
+3508,High School,False,Birmingham,19,female
+3510,Master,False,Birmingham,72,female
+3511,Master,False,Birmingham,61,female
+3513,Bachelor,True,Birmingham,33,female
+3514,High School,False,Birmingham,28,female
+3515,less than high school,False,other,22,male
+3516,Bachelor,False,Birmingham,25,female
+3517,High School,True,Birmingham,18,female
+3520,Bachelor,False,Birmingham,21,female
+3521,High School,False,London,41,female
+3522,Master,False,Birmingham,34,female
+3525,PhD,False,London,24,male
+3529,less than high school,True,Birmingham,23,male
+3531,High School,True,London,33,female
+3532,less than high school,False,other,20,female
+3533,High School,False,Birmingham,20,female
+3534,High School,False,other,21,male
+3535,Bachelor,True,other,43,male
+3536,High School,True,other,42,female
+3538,less than high school,True,other,25,female
+3540,less than high school,True,Birmingham,31,male
+3544,less than high school,False,other,23,male
+3548,High School,False,London,18,female
+3551,less than high school,False,other,62,male
+3552,Bachelor,False,other,32,female
+3553,High School,True,Birmingham,27,female
+3554,less than high school,False,other,22,male
+3557,less than high school,False,other,24,female
+3558,Master,False,Birmingham,35,female
+3559,Bachelor,False,Birmingham,20,female
+3563,Bachelor,True,other,18,female
+3564,High School,False,other,50,male
+3566,High School,True,London,18,female
+3568,High School,True,other,25,female
+3569,High School,False,other,71,male
+3570,less than high school,True,other,46,male
+3571,High School,True,Birmingham,23,female
+3575,Master,True,London,18,female
+3576,Bachelor,False,other,27,female
+3578,less than high school,False,other,50,female
+3580,less than high school,False,Birmingham,21,female
+3581,High School,True,other,23,male
+3583,High School,False,Birmingham,53,female
+3584,High School,True,other,22,male
+3585,High School,False,London,62,male
+3586,less than high school,True,London,73,male
+3587,Bachelor,True,London,73,female
+3588,Bachelor,False,Birmingham,22,female
+3593,less than high school,False,Birmingham,22,female
+3594,PhD,True,other,25,female
+3596,less than high school,False,other,21,female
+3597,less than high school,True,other,72,female
+3598,Bachelor,False,other,20,male
+3602,less than high school,False,Birmingham,33,male
+3605,High School,False,other,27,male
+3607,less than high school,False,other,59,male
+3608,Bachelor,False,other,37,male
+3609,Bachelor,False,other,72,female
+3610,less than high school,True,London,56,male
+3611,High School,True,London,51,female
+3612,High School,False,other,27,male
+3613,High School,False,London,25,female
+3616,High School,True,London,73,male
+3617,Master,False,Birmingham,62,male
+3618,High School,False,Birmingham,24,female
+3619,Bachelor,False,Birmingham,21,female
+3621,High School,False,other,33,male
+3625,Bachelor,False,other,25,female
+3626,Bachelor,False,Birmingham,72,male
+3628,less than high school,True,Birmingham,40,female
+3629,Master,True,other,23,male
+3630,Bachelor,False,other,26,female
+3632,Bachelor,False,London,24,female
+3633,High School,False,other,20,female
+3636,Master,False,other,77,male
+3638,Master,False,Birmingham,23,male
+3639,less than high school,False,other,48,female
+3641,High School,False,Birmingham,24,female
+3643,Master,True,London,21,male
+3644,Bachelor,False,other,25,female
+3646,Master,False,Birmingham,22,female
+3647,Master,False,other,21,female
+3648,High School,True,London,25,female
+3649,Master,True,other,19,female
+3650,less than high school,False,other,51,male
+3653,High School,False,other,23,male
+3657,High School,True,other,19,female
+3658,Bachelor,True,Birmingham,22,female
+3659,Bachelor,False,other,23,female
+3660,Bachelor,False,Birmingham,40,female
+3661,less than high school,False,Birmingham,24,male
+3662,PhD,False,Birmingham,67,female
+3663,High School,True,other,22,female
+3666,PhD,False,Birmingham,35,female
+3673,High School,False,London,25,female
+3676,less than high school,False,other,22,female
+3677,High School,False,other,29,male
+3679,Bachelor,False,other,80,male
+3680,High School,False,other,37,female
+3681,Bachelor,False,Birmingham,24,female
+3682,PhD,False,other,62,male
+3684,less than high school,False,other,30,male
+3685,less than high school,False,other,22,male
+3688,Bachelor,False,other,32,female
+3689,less than high school,True,other,51,female
+3690,less than high school,True,Birmingham,59,male
+3691,High School,False,Birmingham,19,female
+3692,Master,False,other,20,female
+3694,High School,True,other,22,male
+3696,less than high school,False,other,26,male
+3698,PhD,False,other,34,female
+3699,less than high school,False,London,20,female
+3701,Master,False,other,27,female
+3703,High School,False,other,21,male
+3706,PhD,True,other,24,female
+3709,Bachelor,True,Birmingham,36,male
+3710,High School,True,other,55,female
+3713,High School,True,Birmingham,30,female
+3716,Bachelor,False,other,36,female
+3718,less than high school,False,London,38,female
+3720,less than high school,False,Birmingham,29,female
+3721,High School,True,Birmingham,24,male
+3723,less than high school,False,other,73,male
+3724,Master,True,other,26,female
+3726,High School,False,London,55,female
+3729,High School,False,other,27,male
+3730,less than high school,False,other,69,male
+3732,Bachelor,False,Birmingham,23,female
+3733,Master,True,Birmingham,52,female
+3734,High School,False,other,20,male
+3735,High School,False,other,35,male
+3736,High School,True,Birmingham,72,male
+3738,Master,False,other,40,female
+3739,Master,False,other,21,male
+3740,High School,False,other,27,male
+3742,less than high school,False,other,29,male
+3744,Bachelor,False,other,65,male
+3745,High School,False,other,43,male
+3746,Bachelor,False,Birmingham,34,female
+3747,Bachelor,False,Birmingham,26,female
+3748,Master,False,other,23,male
+3749,Bachelor,True,Birmingham,29,male
+3752,Master,False,other,70,female
+3754,High School,False,London,63,male
+3755,Bachelor,False,London,27,male
+3757,High School,False,other,36,female
+3758,Master,False,other,26,female
+3759,High School,False,London,29,male
+3760,less than high school,False,London,70,male
+3762,Master,False,other,26,female
+3763,High School,True,London,25,female
+3764,Master,False,Birmingham,28,male
+3765,Bachelor,False,Birmingham,63,male
+3766,Master,False,other,55,male
+3768,High School,False,Birmingham,26,female
+3769,Bachelor,False,Birmingham,74,male
+3770,less than high school,False,Birmingham,27,female
+3771,less than high school,True,other,22,male
+3773,High School,False,Birmingham,22,female
+3776,less than high school,False,other,23,male
+3777,less than high school,True,London,18,female
+3778,Bachelor,False,Birmingham,41,female
+3779,PhD,True,Birmingham,22,male
+3782,less than high school,True,London,58,male
+3783,PhD,False,London,35,male
+3784,Bachelor,True,other,21,male
+3785,Master,False,other,23,female
+3789,Bachelor,False,Birmingham,25,female
+3790,Master,True,other,27,female
+3792,Bachelor,True,Birmingham,30,female
+3793,High School,False,other,33,female
+3795,Bachelor,False,Birmingham,23,male
+3798,Bachelor,False,Birmingham,24,female
+3799,less than high school,True,Birmingham,29,male
+3801,High School,True,other,26,male
+3802,less than high school,True,other,21,male
+3803,High School,False,London,63,male
+3804,less than high school,True,other,25,female
+3806,less than high school,False,other,26,male
+3807,Bachelor,False,other,25,female
+3808,less than high school,False,other,30,female
+3810,High School,False,other,37,female
+3811,less than high school,False,Birmingham,28,male
+3812,PhD,False,other,53,male
+3813,Bachelor,False,Birmingham,30,female
+3817,Master,False,Birmingham,56,male
+3818,Master,True,London,23,male
+3820,High School,True,other,49,female
+3821,Bachelor,False,Birmingham,62,female
+3822,High School,False,Birmingham,58,male
+3824,Bachelor,False,other,21,female
+3825,Bachelor,True,Birmingham,56,female
+3826,High School,True,other,71,male
+3827,less than high school,False,other,46,female
+3828,less than high school,False,Birmingham,38,female
+3829,High School,False,other,30,female
+3830,Bachelor,True,London,62,male
+3833,High School,False,other,66,male
+3836,Bachelor,False,Birmingham,59,male
+3837,Master,True,other,57,female
+3838,Bachelor,True,other,18,female
+3842,Master,False,Birmingham,32,male
+3844,Bachelor,True,other,22,female
+3845,less than high school,True,other,29,female
+3846,High School,True,other,22,female
+3847,Master,True,other,19,female
+3848,less than high school,False,other,74,male
+3849,High School,False,other,55,male
+3850,Master,False,London,21,female
+3852,High School,False,other,39,female
+3854,High School,False,Birmingham,26,female
+3855,High School,False,London,27,female
+3856,less than high school,False,other,24,female
+3857,High School,False,other,55,male
+3858,Bachelor,False,London,20,female
+3859,Bachelor,False,Birmingham,25,female
+3861,Bachelor,True,London,38,female
+3863,High School,False,Birmingham,23,male
+3864,less than high school,False,Birmingham,74,male
+3865,Bachelor,False,Birmingham,20,female
+3867,High School,False,London,18,female
+3868,High School,False,London,20,female
+3870,less than high school,True,other,52,female
+3872,Master,True,Birmingham,42,female
+3873,Bachelor,False,Birmingham,22,female
+3874,High School,True,other,20,female
+3876,less than high school,False,Birmingham,18,female
+3877,High School,True,Birmingham,57,female
+3879,High School,False,other,57,male
+3880,less than high school,False,London,70,male
+3883,Master,False,other,38,female
+3884,Bachelor,True,Birmingham,38,female
+3885,Bachelor,True,London,62,male
+3887,High School,False,other,37,female
+3888,High School,False,Birmingham,73,male
+3890,less than high school,False,Birmingham,42,female
+3893,High School,False,London,22,male
+3894,High School,True,other,69,female
+3898,less than high school,False,London,25,female
+3901,Bachelor,True,London,29,male
+3903,Bachelor,False,Birmingham,38,male
+3904,less than high school,True,Birmingham,18,male
+3905,High School,False,other,20,female
+3906,High School,False,other,21,female
+3907,less than high school,True,Birmingham,24,male
+3908,Bachelor,False,Birmingham,22,male
+3909,Master,True,other,24,female
+3910,less than high school,True,Birmingham,70,male
+3911,High School,False,other,26,male
+3912,High School,False,Birmingham,25,female
+3915,less than high school,False,other,36,male
+3916,High School,True,Birmingham,34,female
+3919,Master,False,other,24,female
+3920,High School,False,London,56,male
+3922,less than high school,True,London,66,female
+3923,High School,True,other,21,male
+3927,Master,False,Birmingham,25,female
+3928,High School,False,London,22,female
+3929,High School,False,other,42,female
+3930,less than high school,False,other,42,male
+3932,less than high school,True,other,21,male
+3934,Master,False,other,63,male
+3935,less than high school,False,Birmingham,29,female
+3936,less than high school,False,other,62,female
+3938,High School,False,other,41,female
+3945,less than high school,True,London,34,male
+3947,Bachelor,True,London,23,male
+3949,Bachelor,True,other,71,male
+3950,High School,False,Birmingham,24,male
+3952,Bachelor,True,London,26,female
+3953,High School,True,other,44,female
+3954,Bachelor,False,other,56,female
+3955,Master,True,other,27,female
+3958,less than high school,False,Birmingham,59,male
+3960,High School,False,Birmingham,33,male
+3961,High School,False,Birmingham,23,male
+3962,less than high school,False,London,20,female
+3964,Bachelor,False,London,22,male
+3965,less than high school,False,London,35,female
+3966,Bachelor,True,Birmingham,37,male
+3967,High School,True,other,25,female
+3969,less than high school,False,other,73,female
+3972,less than high school,False,London,38,female
+3973,less than high school,False,other,29,female
+3974,less than high school,False,other,34,female
+3979,less than high school,False,other,57,female
+3980,High School,True,other,61,female
+3983,Bachelor,False,Birmingham,40,male
+3984,less than high school,False,other,54,male
+3985,High School,False,other,54,male
+3986,High School,False,Birmingham,37,female
+3987,High School,False,Birmingham,58,male
+3989,less than high school,False,other,24,female
+3990,Bachelor,False,Birmingham,41,female
+3991,High School,False,other,23,male
+3993,High School,False,London,69,female
+3994,High School,True,Birmingham,71,female
+3995,High School,False,Birmingham,22,female
+3996,Bachelor,False,other,20,male
+3998,less than high school,False,other,25,female
+3999,Bachelor,False,Birmingham,22,male
+4000,Bachelor,False,other,23,female
+4002,High School,False,Birmingham,41,female
+4003,Bachelor,False,other,36,male
+4005,Bachelor,False,other,33,female
+4006,Master,False,other,21,female
+4008,High School,False,other,21,male
+4009,Master,False,London,20,female
+4010,less than high school,False,other,20,female
+4012,less than high school,False,Birmingham,24,female
+4013,High School,True,Birmingham,64,female
+4014,Bachelor,False,other,60,male
+4015,Master,False,Birmingham,37,female
+4016,less than high school,False,other,23,male
+4018,High School,False,Birmingham,19,female
+4020,Bachelor,True,other,54,female
+4023,Bachelor,False,other,25,male
+4024,Bachelor,False,other,73,male
+4025,High School,False,Birmingham,24,male
+4026,less than high school,False,London,18,female
+4027,High School,False,other,22,female
+4031,less than high school,False,London,22,male
+4032,Master,False,Birmingham,25,female
+4038,less than high school,False,other,22,female
+4041,Master,True,other,23,male
+4042,Bachelor,True,other,25,female
+4045,less than high school,False,other,20,female
+4047,High School,False,other,19,female
+4049,High School,False,Birmingham,21,female
+4054,less than high school,True,Birmingham,47,male
+4055,less than high school,True,Birmingham,20,female
+4056,High School,True,London,57,female
+4058,Master,False,London,36,female
+4061,Bachelor,False,other,62,male
+4062,PhD,False,other,22,female
+4064,less than high school,False,other,22,male
+4066,Master,False,London,19,female
+4068,High School,False,London,21,female
+4074,Master,False,London,40,male
+4075,less than high school,True,other,33,female
+4076,High School,False,London,28,male
+4077,less than high school,False,Birmingham,25,female
+4078,High School,True,Birmingham,24,female
+4079,High School,True,Birmingham,20,female
+4081,less than high school,False,Birmingham,20,female
+4082,less than high school,False,other,23,male
+4083,less than high school,False,London,37,male
+4084,less than high school,False,other,58,female
+4086,Bachelor,True,other,21,male
+4087,High School,False,Birmingham,56,female
+4088,High School,False,Birmingham,37,female
+4091,Bachelor,False,other,20,female
+4093,High School,False,Birmingham,57,male
+4096,Master,False,other,25,female
+4100,High School,False,other,21,female
+4103,less than high school,False,other,23,female
+4107,less than high school,True,Birmingham,21,female
+4108,Bachelor,False,London,18,male
+4109,less than high school,False,other,26,male
+4111,less than high school,False,other,67,male
+4114,Bachelor,False,other,23,female
+4117,Master,False,other,21,male
+4119,Bachelor,False,other,65,male
+4120,High School,False,other,66,female
+4121,Master,True,Birmingham,21,male
+4122,less than high school,False,other,64,female
+4124,Master,False,Birmingham,55,male
+4125,High School,True,other,21,male
+4126,Bachelor,False,other,27,male
+4127,High School,False,other,20,male
+4129,Bachelor,False,London,69,male
+4130,High School,True,other,70,female
+4132,High School,False,Birmingham,21,male
+4135,High School,False,Birmingham,23,male
+4138,High School,False,other,23,female
+4139,High School,False,Birmingham,36,female
+4141,Bachelor,False,Birmingham,23,female
+4144,PhD,True,Birmingham,61,female
+4146,High School,True,other,21,female
+4147,High School,False,Birmingham,71,female
+4148,Bachelor,True,Birmingham,22,male
+4150,less than high school,False,Birmingham,25,female
+4151,Bachelor,False,other,67,male
+4152,Bachelor,False,London,29,female
+4153,less than high school,True,other,33,male
+4154,less than high school,False,other,33,male
+4155,Bachelor,False,Birmingham,63,male
+4156,less than high school,False,other,21,female
+4157,less than high school,False,Birmingham,25,female
+4159,Master,False,other,24,male
+4160,less than high school,False,London,18,female
+4161,less than high school,False,Birmingham,32,female
+4164,Bachelor,False,other,66,male
+4165,Bachelor,False,Birmingham,33,female
+4168,High School,False,other,23,female
+4170,Master,False,other,20,female
+4171,Master,False,other,26,male
+4172,Bachelor,False,Birmingham,21,male
+4175,Bachelor,True,Birmingham,63,male
+4176,High School,False,Birmingham,55,female
+4178,less than high school,False,Birmingham,22,female
+4179,Master,True,other,27,female
+4181,Bachelor,True,Birmingham,24,female
+4182,Master,False,London,23,male
+4183,High School,False,Birmingham,27,female
+4185,Bachelor,False,Birmingham,71,male
+4186,Master,True,Birmingham,21,male
+4189,less than high school,False,Birmingham,61,male
+4190,less than high school,False,other,36,male
+4192,Bachelor,True,Birmingham,61,female
+4194,Bachelor,True,London,24,female
+4197,Bachelor,False,other,56,male
+4199,Bachelor,False,Birmingham,24,female
+4200,Bachelor,True,London,37,female
+4204,High School,False,other,29,male
+4206,less than high school,True,other,59,female
+4207,less than high school,True,Birmingham,20,female
+4208,High School,True,Birmingham,24,male
+4209,High School,False,London,24,female
+4210,less than high school,False,London,19,male
+4211,High School,False,Birmingham,61,male
+4212,Master,True,London,47,female
+4213,High School,False,other,23,female
+4214,less than high school,True,London,27,female
+4215,PhD,True,Birmingham,21,female
+4216,High School,False,Birmingham,22,female
+4217,High School,False,Birmingham,55,male
+4218,Bachelor,False,Birmingham,56,male
+4219,High School,False,Birmingham,26,female
+4222,less than high school,False,other,67,male
+4223,Master,False,Birmingham,22,male
+4225,High School,False,Birmingham,26,female
+4226,PhD,False,London,47,female
+4227,High School,True,Birmingham,54,male
+4228,High School,True,Birmingham,22,male
+4230,High School,True,other,43,female
+4232,Bachelor,True,other,20,female
+4233,Bachelor,True,London,21,female
+4236,Bachelor,False,other,61,male
+4237,Master,True,other,31,female
+4238,PhD,False,other,24,female
+4239,Bachelor,False,London,18,female
+4240,less than high school,True,London,26,female
+4241,Bachelor,False,other,26,female
+4244,less than high school,True,other,29,male
+4248,less than high school,False,Birmingham,30,female
+4249,Bachelor,True,Birmingham,24,male
+4250,Bachelor,False,Birmingham,24,female
+4251,High School,False,other,75,male
+4253,High School,True,Birmingham,24,male
+4255,Bachelor,True,Birmingham,26,female
+4263,less than high school,False,other,23,male
+4264,Bachelor,False,London,21,female
+4265,Master,False,other,69,female
+4267,Bachelor,False,other,56,male
+4268,less than high school,False,other,58,male
+4270,High School,False,other,25,female
+4271,High School,False,London,53,female
+4272,Bachelor,True,Birmingham,29,male
+4273,Master,False,other,34,male
+4274,High School,False,other,18,female
+4275,Bachelor,False,London,57,male
+4276,High School,False,London,68,female
+4278,Bachelor,False,Birmingham,21,female
+4279,High School,True,Birmingham,66,male
+4280,High School,False,other,27,male
+4281,less than high school,True,other,23,male
+4282,less than high school,False,other,71,male
+4284,Bachelor,False,Birmingham,56,female
+4285,High School,True,London,25,male
+4286,High School,False,London,25,female
+4287,Master,True,other,72,female
+4289,Master,False,Birmingham,23,female
+4290,Bachelor,False,other,22,female
+4292,PhD,False,Birmingham,21,male
+4294,Master,False,Birmingham,22,female
+4296,High School,False,Birmingham,19,female
+4298,Master,False,London,25,female
+4299,High School,False,other,64,female
+4300,High School,True,London,49,female
+4302,Bachelor,True,other,18,female
+4303,Bachelor,False,other,23,male
+4311,less than high school,False,other,36,female
+4312,High School,False,other,23,female
+4315,High School,True,Birmingham,69,male
+4316,Bachelor,True,Birmingham,21,female
+4317,Bachelor,False,other,32,female
+4318,High School,False,other,31,female
+4319,Master,False,Birmingham,21,female
+4320,High School,False,other,21,female
+4322,High School,True,London,36,male
+4323,less than high school,False,Birmingham,25,female
+4324,less than high school,False,Birmingham,34,female
+4326,Master,False,Birmingham,21,female
+4329,less than high school,True,other,18,female
+4330,Master,False,Birmingham,29,male
+4331,Bachelor,False,other,42,female
+4332,Bachelor,True,other,58,female
+4333,less than high school,False,other,37,female
+4335,Master,False,Birmingham,22,female
+4336,Master,False,Birmingham,41,male
+4337,Bachelor,False,Birmingham,38,female
+4338,less than high school,False,Birmingham,34,female
+4339,High School,False,other,25,female
+4340,less than high school,False,Birmingham,59,male
+4341,High School,True,London,24,female
+4342,Bachelor,False,Birmingham,19,female
+4345,High School,True,other,24,male
+4346,Bachelor,False,Birmingham,24,female
+4347,less than high school,False,Birmingham,27,male
+4348,Master,False,other,24,female
+4349,less than high school,True,Birmingham,23,male
+4351,Bachelor,False,other,73,male
+4352,High School,False,Birmingham,49,male
+4353,Master,False,Birmingham,26,male
+4356,High School,True,Birmingham,24,male
+4357,High School,False,London,28,female
+4358,High School,False,other,23,male
+4359,Master,True,other,20,female
+4361,Master,False,London,19,female
+4363,Bachelor,True,Birmingham,66,female
+4364,Master,False,London,27,female
+4366,less than high school,True,other,38,female
+4367,High School,False,Birmingham,20,female
+4368,Bachelor,False,London,24,female
+4372,Master,False,London,26,male
+4374,Bachelor,False,London,49,male
+4375,High School,False,other,23,female
+4377,PhD,True,Birmingham,22,female
+4378,Bachelor,True,Birmingham,37,female
+4379,Master,False,other,23,female
+4380,Master,False,other,43,female
+4383,Master,False,other,26,male
+4385,Bachelor,False,London,50,female
+4387,less than high school,False,Birmingham,72,female
+4388,High School,False,London,25,female
+4389,High School,True,other,23,female
+4394,Bachelor,False,other,49,male
+4395,less than high school,True,Birmingham,37,female
+4399,Bachelor,True,London,22,male
+4400,less than high school,False,Birmingham,29,male
+4401,High School,False,Birmingham,19,male
+4402,Bachelor,True,Birmingham,24,female
+4405,less than high school,True,Birmingham,53,female
+4407,less than high school,True,other,27,female
+4410,Master,False,other,27,female
+4411,Master,True,Birmingham,57,female
+4412,PhD,False,other,21,female
+4413,Bachelor,False,Birmingham,52,male
+4414,High School,False,Birmingham,30,female
+4415,Bachelor,False,Birmingham,28,male
+4417,Bachelor,False,Birmingham,23,female
+4422,High School,False,other,22,male
+4423,Bachelor,True,Birmingham,62,female
+4424,Master,True,other,21,female
+4426,Bachelor,False,other,21,female
+4428,Bachelor,False,London,28,female
+4431,Master,False,other,24,female
+4432,Bachelor,True,London,22,female
+4435,High School,True,other,29,female
+4437,Bachelor,True,other,24,female
+4438,Bachelor,True,Birmingham,20,male
+4439,Bachelor,False,other,21,female
+4440,Master,False,other,23,male
+4441,Bachelor,False,London,21,male
+4442,Bachelor,False,other,27,male
+4444,Bachelor,True,other,21,male
+4446,Master,True,London,20,male
+4447,High School,False,Birmingham,22,female
+4448,High School,True,London,35,female
+4449,Bachelor,True,Birmingham,54,female
+4450,Bachelor,False,Birmingham,39,female
+4452,less than high school,False,other,59,female
+4456,less than high school,False,London,23,female
+4457,Bachelor,True,other,40,female
+4458,High School,True,other,39,male
+4459,less than high school,True,other,22,male
+4460,less than high school,False,Birmingham,52,male
+4463,less than high school,False,Birmingham,73,male
+4464,less than high school,False,London,70,male
+4467,Master,False,other,21,male
+4468,Bachelor,False,London,32,female
+4469,High School,False,other,23,female
+4471,High School,True,Birmingham,19,male
+4472,High School,True,other,36,male
+4475,Bachelor,True,other,52,female
+4476,High School,False,other,30,male
+4477,less than high school,True,other,23,female
+4480,less than high school,True,Birmingham,26,female
+4481,less than high school,True,other,55,male
+4484,Bachelor,False,Birmingham,61,female
+4487,High School,True,Birmingham,21,male
+4488,Master,False,Birmingham,20,female
+4489,less than high school,True,other,34,female
+4490,less than high school,True,Birmingham,23,male
+4491,Bachelor,True,London,63,female
+4495,less than high school,True,Birmingham,24,female
+4497,High School,False,other,28,female
+4498,less than high school,False,other,24,male
+4499,Master,False,other,19,female
+4502,High School,True,other,25,male
+4503,less than high school,True,other,38,female
+4504,High School,False,other,30,male
+4505,High School,False,Birmingham,29,male
+4506,High School,False,other,53,male
+4509,Bachelor,False,Birmingham,21,male
+4512,High School,False,London,52,female
+4513,Bachelor,True,Birmingham,64,female
+4515,Bachelor,True,Birmingham,37,male
+4516,PhD,False,Birmingham,22,female
+4517,High School,True,Birmingham,22,female
+4518,less than high school,True,London,20,male
+4519,less than high school,False,other,24,male
+4522,High School,False,other,59,female
+4524,High School,True,other,27,female
+4525,Master,False,Birmingham,26,female
+4526,less than high school,False,other,61,female
+4527,Bachelor,False,other,21,male
+4528,Bachelor,True,other,23,female
+4530,High School,False,other,26,female
+4531,less than high school,False,other,70,male
+4532,High School,False,London,70,female
+4535,Master,False,other,23,female
+4536,Bachelor,False,other,35,female
+4537,less than high school,True,other,21,male
+4539,High School,True,other,56,female
+4540,Bachelor,False,Birmingham,26,male
+4544,less than high school,True,Birmingham,25,female
+4545,Master,False,London,21,male
+4546,High School,True,other,67,male
+4548,High School,False,other,20,female
+4549,Master,False,Birmingham,25,male
+4551,Master,False,other,29,male
+4553,Bachelor,False,London,59,male
+4554,Master,False,other,19,female
+4555,High School,True,Birmingham,24,female
+4556,Bachelor,False,other,27,female
+4557,Master,False,other,51,male
+4559,Bachelor,False,London,39,female
+4561,Bachelor,False,London,30,male
+4562,Bachelor,False,London,24,male
+4565,High School,False,Birmingham,66,male
+4567,Bachelor,False,other,42,female
+4568,Bachelor,False,London,24,female
+4569,Bachelor,True,other,21,female
+4570,Master,False,Birmingham,23,female
+4571,Bachelor,False,Birmingham,21,male
+4572,High School,False,London,22,male
+4573,High School,False,other,25,male
+4575,less than high school,True,Birmingham,26,female
+4577,less than high school,True,London,30,male
+4578,less than high school,True,other,28,male
+4579,High School,False,London,23,female
+4582,Master,False,London,20,male
+4585,Bachelor,False,other,30,male
+4589,less than high school,True,other,35,female
+4593,Bachelor,False,Birmingham,20,female
+4594,Master,False,Birmingham,37,male
+4596,Master,True,other,44,male
+4598,Bachelor,False,Birmingham,23,female
+4600,Bachelor,False,other,23,female
+4601,High School,True,Birmingham,24,female
+4603,Bachelor,False,Birmingham,66,male
+4604,Bachelor,False,Birmingham,65,female
+4605,less than high school,True,other,59,male
+4607,Bachelor,False,London,20,female
+4608,Bachelor,False,Birmingham,73,male
+4611,Bachelor,False,other,73,female
+4613,Bachelor,False,other,20,male
+4614,Master,False,other,62,male
+4615,High School,True,other,34,female
+4616,less than high school,True,other,18,female
+4617,Master,False,Birmingham,22,female
+4619,Master,False,other,67,male
+4620,High School,False,Birmingham,40,male
+4623,Bachelor,False,other,37,male
+4624,less than high school,True,Birmingham,25,female
+4625,Bachelor,False,other,57,male
+4627,Bachelor,False,other,32,male
+4629,Master,False,other,61,male
+4630,High School,False,Birmingham,32,male
+4632,High School,False,other,29,male
+4633,High School,False,Birmingham,33,female
+4634,Bachelor,False,Birmingham,56,male
+4637,High School,True,Birmingham,61,female
+4639,High School,True,other,55,male
+4642,High School,False,Birmingham,28,female
+4643,High School,False,London,27,female
+4644,Master,False,other,29,female
+4646,less than high school,False,other,30,female
+4649,less than high school,True,Birmingham,19,female
+4650,High School,False,other,60,female
+4652,Bachelor,False,other,21,male
+4653,Bachelor,False,other,37,female
+4655,Master,False,London,21,female
+4658,Master,False,other,25,female
+4659,Bachelor,False,other,20,female
+4660,Bachelor,False,other,24,male
+4661,Master,True,Birmingham,27,female
+4663,less than high school,False,other,22,male
+4664,less than high school,False,other,70,female
+4665,Bachelor,True,Birmingham,18,female
+4667,Bachelor,True,Birmingham,19,female
+4668,Bachelor,False,other,33,female
+4670,Master,True,Birmingham,27,female
+4672,Bachelor,False,London,56,male
+4673,Bachelor,False,Birmingham,66,male
+4675,Bachelor,True,Birmingham,65,female
+4681,Bachelor,False,other,24,female
+4682,Master,False,other,69,male
+4683,Bachelor,False,Birmingham,25,female
+4685,PhD,False,London,25,female
+4686,Bachelor,False,Birmingham,25,female
+4687,High School,False,London,74,female
+4688,PhD,False,London,66,female
+4689,High School,False,Birmingham,66,male
+4690,less than high school,False,other,29,male
+4691,Bachelor,False,other,27,female
+4693,Bachelor,False,other,21,male
+4696,Bachelor,False,London,18,female
+4697,High School,False,other,44,female
+4698,Master,False,London,63,female
+4701,Bachelor,False,Birmingham,29,male
+4702,High School,False,other,64,female
+4706,Master,False,other,24,female
+4707,Bachelor,False,London,63,male
+4709,less than high school,False,other,37,male
+4710,High School,True,Birmingham,20,female
+4711,High School,False,other,23,female
+4712,Master,False,Birmingham,64,female
+4714,High School,False,other,19,female
+4715,less than high school,True,other,34,female
+4717,High School,False,other,18,female
+4719,High School,True,Birmingham,25,female
+4720,Bachelor,False,other,63,male
+4723,Master,False,other,28,female
+4724,High School,False,other,21,male
+4726,Master,True,Birmingham,18,female
+4728,less than high school,True,other,35,female
+4729,Master,False,other,26,female
+4730,Bachelor,True,other,22,female
+4732,less than high school,False,London,60,female
+4734,High School,True,other,28,female
+4737,Master,False,Birmingham,65,female
+4739,Master,True,other,22,male
+4740,Master,False,other,30,male
+4741,Master,False,Birmingham,28,female
+4742,High School,False,London,32,male
+4743,Bachelor,True,other,60,male
+4744,less than high school,False,other,21,female
+4745,Bachelor,False,London,25,female
+4746,Bachelor,True,other,22,female
+4747,less than high school,True,Birmingham,20,female
+4748,High School,True,other,62,female
+4750,Bachelor,False,Birmingham,34,female
+4751,High School,False,other,22,female
+4754,High School,False,other,37,female
+4757,Bachelor,True,other,19,female
+4760,Master,False,other,63,male
+4763,Bachelor,True,other,21,female
+4764,PhD,False,Birmingham,34,male
+4767,Master,False,Birmingham,26,female
+4768,Master,False,Birmingham,35,female
+4769,less than high school,True,other,25,male
+4770,Master,False,London,28,female
+4771,Master,False,Birmingham,19,female
+4772,less than high school,True,Birmingham,25,female
+4773,High School,False,other,72,male
+4775,High School,False,other,18,female
+4776,Bachelor,False,other,46,female
+4777,Bachelor,False,other,21,female
+4778,High School,False,other,32,male
+4779,Bachelor,False,other,30,female
+4784,Bachelor,False,other,27,male
+4785,Bachelor,False,other,22,female
+4786,High School,False,Birmingham,29,male
+4787,High School,True,Birmingham,30,female
+4789,PhD,True,other,23,female
+4791,High School,True,Birmingham,21,female
+4792,Bachelor,False,other,28,male
+4793,Bachelor,False,Birmingham,21,male
+4794,High School,True,London,61,male
+4795,Master,True,Birmingham,21,male
+4796,Bachelor,True,Birmingham,63,female
+4797,less than high school,True,Birmingham,35,male
+4798,High School,False,other,23,female
+4800,less than high school,False,London,49,female
+4801,Bachelor,True,other,55,male
+4802,High School,True,other,71,female
+4803,High School,True,other,20,male
+4804,Master,True,London,24,female
+4805,Bachelor,False,London,22,female
+4806,Bachelor,False,other,19,female
+4807,less than high school,False,other,24,female
+4808,Bachelor,False,other,61,male
+4809,less than high school,False,other,21,female
+4810,less than high school,False,other,66,female
+4811,Bachelor,False,London,22,female
+4812,less than high school,False,London,26,male
+4813,High School,True,other,37,male
+4814,Bachelor,False,other,23,female
+4819,less than high school,False,other,19,female
+4821,PhD,True,other,23,male
+4824,Bachelor,False,other,27,male
+4825,Master,True,other,22,male
+4826,High School,False,other,26,female
+4827,Bachelor,True,other,27,female
+4828,High School,False,Birmingham,31,female
+4829,Bachelor,False,Birmingham,21,female
+4830,PhD,False,other,35,female
+4831,Master,False,Birmingham,37,male
+4834,less than high school,True,other,24,female
+4835,High School,False,London,37,female
+4836,less than high school,False,other,33,female
+4839,less than high school,False,other,36,female
+4840,High School,False,other,58,male
+4844,High School,False,other,25,male
+4848,High School,False,London,23,female
+4849,High School,True,other,70,female
+4850,less than high school,False,other,22,female
+4852,less than high school,True,other,31,female
+4853,Bachelor,False,other,28,female
+4854,High School,False,Birmingham,24,female
+4855,less than high school,False,other,24,female
+4856,Bachelor,True,other,63,male
+4857,Master,False,other,34,male
+4858,Bachelor,False,London,59,male
+4859,less than high school,False,Birmingham,22,female
+4860,Bachelor,True,London,24,female
+4863,High School,True,London,25,male
+4866,Master,True,Birmingham,27,female
+4868,less than high school,True,London,25,female
+4869,Bachelor,False,other,26,female
+4871,Bachelor,False,Birmingham,21,female
+4872,less than high school,True,Birmingham,55,female
+4873,Master,False,other,37,female
+4874,High School,False,London,47,male
+4875,High School,False,other,59,female
+4877,less than high school,False,other,21,female
+4880,Bachelor,False,Birmingham,24,female
+4881,Master,False,other,31,male
+4883,Bachelor,True,Birmingham,23,female
+4884,less than high school,False,other,30,female
+4886,High School,False,other,21,female
+4887,PhD,False,other,24,female
+4888,Master,False,Birmingham,21,female
+4889,Master,False,other,20,female
+4892,High School,False,Birmingham,34,female
+4893,High School,True,other,18,female
+4895,High School,True,London,18,female
+4896,High School,True,other,20,female
+4898,High School,False,other,22,female
+4899,Bachelor,False,other,18,female
+4900,Bachelor,False,London,31,male
+4901,Bachelor,False,other,36,female
+4903,High School,True,other,21,female
+4905,Master,False,Birmingham,57,male
+4906,Bachelor,False,London,30,male
+4907,Master,True,other,21,female
+4910,High School,True,other,22,male
+4911,Bachelor,True,London,25,female
+4915,High School,False,Birmingham,62,male
+4916,Bachelor,True,other,26,female
+4918,less than high school,True,Birmingham,19,female
+4919,less than high school,False,Birmingham,24,female
+4920,Master,False,other,27,male
+4922,High School,False,other,30,female
+4927,Bachelor,False,Birmingham,22,male
+4929,Bachelor,False,other,44,female
+4930,High School,False,other,28,female
+4931,less than high school,False,Birmingham,31,female
+4932,Bachelor,False,London,33,male
+4935,less than high school,False,Birmingham,21,female
+4936,High School,True,London,24,male
+4937,Bachelor,False,other,22,male
+4938,High School,False,other,63,male
+4941,Bachelor,True,other,19,female
+4943,Bachelor,False,other,26,female
+4944,Bachelor,True,other,20,female
+4948,Bachelor,False,other,26,female
+4949,less than high school,False,other,21,male
+4950,Bachelor,False,other,20,female
+4952,High School,False,other,49,female
+4956,Master,False,London,30,male
+4957,Bachelor,True,other,25,male
+4961,less than high school,False,London,35,female
+4965,High School,False,other,24,female
+4970,Bachelor,True,Birmingham,28,male
+4971,High School,True,other,45,female
+4972,High School,False,other,44,female
+4977,less than high school,False,other,20,female
+4978,less than high school,False,Birmingham,30,male
+4980,less than high school,True,Birmingham,26,male
+4983,less than high school,True,other,38,female
+4986,High School,False,other,63,female
+4987,Bachelor,True,other,30,female
+4989,Bachelor,True,London,54,male
+4990,High School,True,other,56,male
+4991,less than high school,True,Birmingham,44,female
+4994,High School,False,other,73,male
+4995,High School,False,other,23,male
+4997,Bachelor,True,other,63,male
+4999,High School,False,Birmingham,19,female
+5001,High School,False,London,29,male
+5002,less than high school,False,other,25,female
+5004,Bachelor,False,Birmingham,23,male
+5005,Bachelor,True,other,22,female
+5007,less than high school,True,other,23,female
+5010,less than high school,False,other,45,female
+5013,High School,False,Birmingham,56,male
+5017,Bachelor,False,other,70,male
+5018,less than high school,True,Birmingham,21,female
+5019,Bachelor,False,Birmingham,37,male
+5021,Master,False,London,55,female
+5023,Bachelor,False,Birmingham,21,male
+5025,High School,False,other,41,female
+5026,High School,True,other,21,female
+5027,Master,False,Birmingham,53,female
+5028,less than high school,True,other,38,female
+5029,less than high school,False,other,26,female
+5030,less than high school,False,other,24,female
+5031,High School,True,Birmingham,60,male
+5032,PhD,False,other,32,female
+5033,Bachelor,False,other,22,female
+5038,Bachelor,False,London,24,male
+5041,Master,False,Birmingham,21,male
+5042,Bachelor,True,other,21,male
+5043,Bachelor,False,Birmingham,68,female
+5044,Bachelor,False,other,57,female
+5045,less than high school,False,Birmingham,24,male
+5047,Bachelor,True,Birmingham,23,female
+5048,Bachelor,False,other,29,female
+5049,Bachelor,False,other,30,male
+5050,High School,False,other,22,male
+5052,Master,False,other,21,male
+5053,Master,True,London,18,female
+5056,less than high school,False,other,30,male
+5057,Bachelor,False,Birmingham,63,male
+5058,High School,False,Birmingham,51,male
+5061,less than high school,True,Birmingham,58,male
+5063,less than high school,True,London,23,female
+5064,less than high school,True,other,22,female
+5065,less than high school,False,London,24,male
+5066,High School,True,other,64,female
+5067,Master,False,Birmingham,20,female
+5068,less than high school,False,Birmingham,68,male
+5069,High School,False,other,23,male
+5071,Master,False,other,30,male
+5074,High School,False,London,28,male
+5075,Master,False,Birmingham,20,female
+5076,High School,False,Birmingham,20,female
+5077,Master,False,Birmingham,26,female
+5078,PhD,True,other,22,female
+5079,Bachelor,False,other,26,female
+5080,Master,False,other,55,male
+5085,Bachelor,False,London,31,female
+5086,Bachelor,True,Birmingham,63,male
+5087,High School,False,Birmingham,57,male
+5089,Master,False,other,23,male
+5090,High School,False,London,27,male
+5091,Bachelor,False,other,27,male
+5092,High School,False,London,67,male
+5095,High School,True,other,24,male
+5097,High School,False,other,24,female
+5098,PhD,False,other,27,female
+5099,High School,False,Birmingham,64,male
+5100,High School,False,Birmingham,24,female
+5101,Bachelor,False,other,26,male
+5102,High School,False,London,61,female
+5103,High School,False,London,27,male
+5104,High School,False,other,62,male
+5105,less than high school,False,other,20,female
+5107,Bachelor,False,other,23,female
+5108,less than high school,False,other,20,male
+5110,Master,False,other,29,female
+5111,High School,False,other,18,female
+5112,Master,False,Birmingham,35,female
+5113,High School,False,Birmingham,72,male
+5114,High School,False,other,27,male
+5116,High School,False,other,19,female
+5117,High School,False,other,55,female
+5118,less than high school,False,Birmingham,64,male
+5123,High School,False,other,23,female
+5125,PhD,False,London,22,female
+5128,Bachelor,False,other,25,female
+5129,Bachelor,True,other,29,male
+5130,High School,False,London,56,male
+5131,High School,False,other,74,male
+5132,High School,True,London,25,female
+5133,less than high school,True,other,21,female
+5134,High School,False,Birmingham,72,male
+5135,Master,False,Birmingham,34,female
+5137,High School,True,London,25,female
+5142,Master,True,other,28,female
+5143,Master,True,other,26,female
+5144,Bachelor,False,London,24,female
+5145,Master,True,other,31,male
+5146,High School,True,London,38,female
+5148,High School,False,Birmingham,48,male
+5151,High School,False,Birmingham,60,female
+5152,PhD,True,Birmingham,59,male
+5153,Bachelor,False,other,26,female
+5154,less than high school,True,other,25,female
+5155,less than high school,False,London,19,female
+5156,less than high school,False,other,21,female
+5157,High School,False,other,21,female
+5159,High School,False,Birmingham,22,male
+5160,Bachelor,False,Birmingham,24,female
+5161,High School,True,London,26,female
+5162,Master,False,other,27,female
+5163,Bachelor,False,other,22,male
+5164,Master,False,other,36,female
+5167,Bachelor,False,other,36,female
+5168,High School,False,other,54,female
+5173,Bachelor,False,other,67,female
+5174,High School,False,Birmingham,73,male
+5175,Bachelor,False,other,70,female
+5176,High School,False,Birmingham,23,male
+5177,Bachelor,False,Birmingham,20,female
+5178,High School,False,London,18,female
+5179,High School,False,other,34,female
+5180,Master,False,other,24,male
+5181,Master,False,Birmingham,24,female
+5183,Master,False,other,34,male
+5185,less than high school,False,other,23,female
+5186,High School,False,other,45,female
+5188,Bachelor,False,other,24,female
+5190,Master,False,Birmingham,21,female
+5191,Master,False,other,25,male
+5192,High School,False,Birmingham,22,female
+5193,Bachelor,False,London,20,female
+5194,Master,True,other,20,male
+5195,High School,True,Birmingham,20,male
+5196,less than high school,False,other,19,female
+5198,PhD,False,Birmingham,26,male
+5199,Bachelor,False,Birmingham,34,male
+5200,High School,True,other,23,female
+5204,PhD,False,London,34,male
+5205,less than high school,True,Birmingham,26,female
+5209,Master,True,other,67,male
+5210,PhD,False,other,45,male
+5212,Master,False,Birmingham,27,female
+5213,Bachelor,False,Birmingham,26,male
+5214,Master,False,other,70,female
+5216,PhD,False,Birmingham,24,male
+5217,High School,False,other,19,female
+5222,less than high school,False,Birmingham,28,female
+5223,Bachelor,True,other,18,female
+5224,less than high school,True,other,36,male
+5225,Bachelor,False,Birmingham,37,female
+5227,High School,False,Birmingham,23,male
+5228,less than high school,True,other,18,female
+5229,High School,False,other,18,female
+5230,Bachelor,True,Birmingham,55,female
+5231,Master,False,other,28,female
+5232,Master,False,other,18,male
+5234,High School,False,other,27,female
+5237,Bachelor,False,London,20,female
+5238,less than high school,False,London,24,male
+5239,less than high school,False,other,54,female
+5240,less than high school,True,Birmingham,28,female
+5241,less than high school,True,Birmingham,22,male
+5247,Bachelor,False,other,30,male
+5248,less than high school,False,other,48,male
+5249,Bachelor,False,other,41,male
+5251,High School,True,other,19,female
+5252,High School,True,London,19,female
+5253,PhD,True,Birmingham,26,female
+5254,Bachelor,False,Birmingham,72,male
+5261,High School,False,other,23,female
+5263,less than high school,False,Birmingham,25,female
+5266,less than high school,False,other,20,male
+5267,Master,False,Birmingham,71,female
+5269,Master,True,other,39,female
+5270,Bachelor,False,Birmingham,28,male
+5272,Master,False,other,20,female
+5273,PhD,False,other,67,male
+5274,less than high school,False,Birmingham,30,male
+5275,less than high school,True,Birmingham,27,female
+5277,Master,False,London,33,female
+5278,Bachelor,False,other,21,male
+5279,less than high school,True,Birmingham,26,female
+5283,Master,False,London,22,female
+5284,Bachelor,False,Birmingham,26,female
+5285,Bachelor,False,other,22,female
+5286,Master,False,other,29,female
+5287,Bachelor,True,other,20,female
+5291,Bachelor,False,London,19,female
+5292,Bachelor,False,Birmingham,62,male
+5293,High School,True,other,18,male
+5294,Bachelor,False,other,70,male
+5295,Bachelor,True,other,48,male
+5296,less than high school,True,London,30,female
+5297,Master,False,Birmingham,60,female
+5298,Bachelor,False,other,22,male
+5299,Master,False,other,26,male
+5301,Master,False,other,54,female
+5302,Bachelor,False,other,56,female
+5303,Bachelor,False,other,21,female
+5304,Master,False,other,23,male
+5305,Bachelor,False,other,21,female
+5308,less than high school,False,other,33,female
+5309,Bachelor,False,Birmingham,19,female
+5310,Bachelor,True,Birmingham,25,female
+5312,High School,True,other,59,female
+5313,PhD,False,Birmingham,22,female
+5315,PhD,False,other,38,female
+5316,Bachelor,False,Birmingham,25,female
+5317,High School,False,other,66,male
+5320,High School,False,London,29,male
+5323,High School,True,other,29,female
+5326,less than high school,True,other,24,female
+5329,Bachelor,True,Birmingham,33,female
+5332,High School,False,Birmingham,19,female
+5333,High School,False,Birmingham,39,male
+5335,Bachelor,False,Birmingham,66,male
+5336,less than high school,True,Birmingham,55,female
+5344,Bachelor,True,Birmingham,22,female
+5346,less than high school,False,other,21,female
+5349,Master,False,Birmingham,56,male
+5351,Bachelor,True,London,40,female
+5352,High School,False,other,23,female
+5354,less than high school,True,Birmingham,23,female
+5355,High School,True,London,44,male
+5356,Bachelor,True,Birmingham,60,male
+5357,High School,False,Birmingham,24,female
+5358,High School,True,Birmingham,19,female
+5361,High School,False,Birmingham,65,male
+5362,Bachelor,False,London,24,female
+5363,less than high school,False,London,53,male
+5364,less than high school,False,London,35,male
+5368,Bachelor,True,Birmingham,28,male
+5369,High School,False,other,21,female
+5370,less than high school,True,other,26,male
+5372,High School,False,Birmingham,66,male
+5374,High School,False,Birmingham,79,male
+5375,Master,True,London,23,male
+5376,High School,True,London,34,male
+5377,Master,False,London,25,male
+5378,High School,False,other,71,female
+5379,High School,False,other,21,male
+5380,Bachelor,False,other,58,male
+5381,Bachelor,False,other,21,male
+5382,High School,True,other,26,male
+5385,less than high school,False,London,27,male
+5386,Bachelor,False,other,32,female
+5387,Bachelor,True,other,23,male
+5388,Bachelor,False,other,21,male
+5389,less than high school,True,Birmingham,30,male
+5390,less than high school,False,London,19,female
+5391,High School,True,London,30,male
+5392,PhD,True,Birmingham,67,female
+5394,Bachelor,False,other,20,female
+5396,Bachelor,False,Birmingham,33,male
+5398,Bachelor,False,Birmingham,25,female
+5399,High School,True,other,27,female
+5400,Bachelor,False,other,34,male
+5401,Bachelor,False,London,65,female
+5402,Bachelor,False,London,60,male
+5404,High School,False,Birmingham,21,female
+5405,Bachelor,False,London,25,female
+5406,Bachelor,False,other,27,male
+5407,Bachelor,False,Birmingham,24,female
+5409,less than high school,False,other,33,female
+5412,Bachelor,False,other,18,female
+5413,High School,False,other,21,female
+5414,Bachelor,False,other,33,female
+5419,Master,True,London,27,male
+5422,Bachelor,True,other,31,female
+5423,Bachelor,False,other,26,female
+5425,Master,False,Birmingham,25,male
+5428,High School,False,London,25,female
+5429,Master,False,London,35,female
+5431,Master,False,London,27,male
+5432,Bachelor,True,other,35,male
+5433,less than high school,True,Birmingham,35,female
+5436,less than high school,False,Birmingham,21,female
+5437,Bachelor,False,other,43,female
+5438,High School,True,Birmingham,21,female
+5440,less than high school,True,Birmingham,74,male
+5441,High School,False,other,21,male
+5442,less than high school,False,other,26,male
+5443,Master,False,London,22,male
+5444,High School,True,Birmingham,18,male
+5446,High School,False,other,21,female
+5448,Bachelor,False,other,18,female
+5449,High School,False,Birmingham,20,female
+5450,Master,False,London,18,female
+5452,High School,False,other,30,male
+5454,less than high school,True,London,21,female
+5455,Bachelor,False,other,27,male
+5456,High School,False,Birmingham,71,female
+5457,less than high school,False,other,24,female
+5458,Bachelor,False,other,64,female
+5459,High School,False,Birmingham,23,female
+5460,less than high school,True,Birmingham,66,male
+5462,less than high school,False,Birmingham,64,male
+5463,High School,False,other,34,male
+5466,less than high school,False,other,29,female
+5467,Master,False,other,68,male
+5468,Bachelor,True,other,25,male
+5470,High School,True,London,77,female
+5471,High School,False,other,18,female
+5472,less than high school,True,London,21,female
+5476,Bachelor,False,other,38,female
+5477,High School,False,Birmingham,19,male
+5478,Master,False,Birmingham,22,female
+5479,less than high school,False,other,24,female
+5480,less than high school,True,other,27,male
+5481,Bachelor,False,London,40,female
+5483,Master,True,London,23,male
+5485,Bachelor,False,London,36,female
+5486,Bachelor,False,other,23,female
+5487,less than high school,False,other,72,female
+5488,Bachelor,True,Birmingham,27,male
+5489,Master,False,other,23,male
+5490,less than high school,False,other,29,male
+5491,less than high school,True,Birmingham,24,female
+5492,High School,False,Birmingham,27,female
+5493,High School,False,Birmingham,33,female
+5495,Bachelor,False,London,35,female
+5498,High School,False,London,25,male
+5499,Master,True,other,25,female
+5500,less than high school,False,Birmingham,66,female
+5501,Bachelor,False,other,35,female
+5503,High School,False,London,52,female
+5504,less than high school,True,other,45,female
+5506,less than high school,False,Birmingham,64,female
+5508,High School,True,other,19,female
+5509,Bachelor,False,London,26,female
+5510,less than high school,False,other,30,male
+5512,Master,False,London,61,male
+5513,less than high school,False,Birmingham,72,female
+5514,Master,False,other,74,male
+5516,High School,False,other,24,male
+5519,Bachelor,False,Birmingham,50,female
+5521,Bachelor,False,other,22,male
+5522,Bachelor,False,London,31,female
+5526,High School,False,Birmingham,53,male
+5528,High School,False,Birmingham,24,female
+5529,Master,False,other,37,male
+5534,less than high school,False,London,22,female
+5535,Master,False,other,18,female
+5536,PhD,True,other,31,male
+5537,Bachelor,False,London,20,female
+5538,Bachelor,True,other,24,male
+5540,Bachelor,False,other,27,female
+5541,Master,False,Birmingham,21,female
+5542,High School,False,other,23,male
+5544,Master,False,other,54,male
+5546,less than high school,False,Birmingham,22,female
+5548,less than high school,False,other,35,female
+5551,Bachelor,True,London,41,male
+5552,High School,False,London,36,male
+5553,less than high school,False,London,53,female
+5554,Bachelor,False,other,63,male
+5556,less than high school,False,London,34,female
+5557,High School,False,other,24,female
+5558,High School,True,other,25,female
+5560,High School,False,other,58,male
+5562,High School,False,other,22,female
+5563,Bachelor,True,other,28,male
+5564,Master,False,other,60,male
+5566,Bachelor,False,other,78,male
+5567,Bachelor,False,London,23,male
+5568,Master,False,Birmingham,32,male
+5569,High School,False,London,23,female
+5572,Master,False,London,32,female
+5573,Master,False,Birmingham,24,female
+5574,High School,True,other,22,female
+5575,less than high school,True,London,18,female
+5576,Bachelor,False,other,26,female
+5577,High School,False,London,64,female
+5581,High School,True,other,42,female
+5582,Master,False,Birmingham,20,male
+5583,less than high school,True,other,23,female
+5585,less than high school,True,Birmingham,18,female
+5588,less than high school,True,London,25,male
+5590,Bachelor,False,London,25,female
+5591,Bachelor,True,other,25,female
+5592,High School,False,Birmingham,21,female
+5593,High School,False,other,58,female
+5595,Bachelor,False,other,20,female
+5597,Bachelor,False,Birmingham,38,male
+5599,less than high school,True,other,21,male
+5600,Master,False,Birmingham,30,male
+5601,Master,False,other,19,female
+5602,less than high school,False,Birmingham,56,female
+5603,Bachelor,True,other,21,female
+5605,Master,False,other,20,female
+5606,Master,False,other,36,female
+5608,less than high school,False,London,23,female
+5609,less than high school,False,other,35,male
+5610,less than high school,False,London,26,female
+5611,High School,False,other,23,female
+5612,Master,True,other,19,female
+5614,High School,False,other,19,female
+5615,less than high school,False,London,24,female
+5619,Master,False,Birmingham,42,male
+5621,Bachelor,False,other,59,male
+5622,less than high school,False,other,55,male
+5623,High School,False,London,36,female
+5624,less than high school,False,other,58,male
+5625,High School,True,Birmingham,70,female
+5627,Master,True,Birmingham,57,male
+5629,Bachelor,False,other,27,female
+5634,Bachelor,True,London,77,female
+5635,Bachelor,False,Birmingham,57,male
+5636,less than high school,True,Birmingham,26,male
+5638,Master,False,Birmingham,50,male
+5639,less than high school,False,other,54,female
+5643,High School,True,other,45,male
+5644,High School,False,Birmingham,24,male
+5647,High School,False,London,52,female
+5648,High School,False,London,26,female
+5649,Master,False,other,27,female
+5655,High School,True,other,25,female
+5658,Bachelor,False,other,35,female
+5659,High School,False,London,33,male
+5661,Bachelor,False,Birmingham,22,female
+5662,Bachelor,True,London,18,male
+5663,High School,False,Birmingham,18,female
+5665,less than high school,False,Birmingham,55,male
+5666,High School,False,London,24,female
+5667,less than high school,True,other,57,female
+5669,High School,False,other,22,male
+5670,Master,False,London,36,female
+5671,less than high school,True,other,74,male
+5672,Master,False,other,28,male
+5675,Bachelor,False,other,64,female
+5677,Master,True,Birmingham,21,male
+5681,Bachelor,True,other,21,male
+5682,High School,True,Birmingham,30,male
+5683,Master,False,London,24,female
+5684,High School,False,Birmingham,28,female
+5686,High School,False,London,27,female
+5687,Master,False,London,43,female
+5688,Bachelor,False,other,55,female
+5689,High School,True,Birmingham,29,male
+5690,High School,False,other,24,female
+5691,High School,False,other,37,male
+5694,Master,False,Birmingham,33,male
+5695,Bachelor,False,Birmingham,25,male
+5696,Master,False,other,24,female
+5698,Bachelor,False,other,24,female
+5700,Bachelor,False,Birmingham,28,female
+5702,High School,False,Birmingham,24,female
+5704,Master,False,Birmingham,26,male
+5705,Master,False,London,21,male
+5706,less than high school,False,Birmingham,37,female
+5707,High School,True,other,57,male
+5708,High School,True,other,73,male
+5710,Master,False,Birmingham,28,female
+5712,Bachelor,False,London,54,female
+5713,High School,False,other,25,female
+5714,Bachelor,False,London,35,female
+5715,less than high school,False,Birmingham,18,female
+5719,Bachelor,True,Birmingham,22,female
+5720,High School,False,other,26,female
+5721,Master,False,other,45,female
+5723,High School,False,other,27,male
+5724,less than high school,False,Birmingham,50,female
+5725,High School,False,other,29,male
+5726,less than high school,True,other,38,female
+5727,High School,False,other,27,female
+5729,Bachelor,True,London,19,female
+5730,High School,False,other,54,female
+5732,High School,False,London,21,male
+5733,High School,False,other,23,male
+5735,Master,True,Birmingham,28,female
+5736,less than high school,False,London,19,female
+5737,Bachelor,False,Birmingham,40,male
+5738,less than high school,True,other,40,female
+5740,Master,True,Birmingham,25,female
+5741,Bachelor,False,Birmingham,24,male
+5742,High School,True,other,64,male
+5743,Bachelor,True,other,38,male
+5748,High School,True,Birmingham,23,male
+5749,Bachelor,False,Birmingham,18,female
+5750,Bachelor,True,London,67,male
+5751,Bachelor,False,Birmingham,50,female
+5752,High School,False,other,26,male
+5753,High School,False,other,27,female
+5754,less than high school,True,other,28,male
+5756,Bachelor,False,Birmingham,26,female
+5763,Master,False,Birmingham,51,male
+5764,Bachelor,False,Birmingham,23,male
+5765,less than high school,True,other,24,female
+5767,High School,False,other,26,female
+5768,Bachelor,False,other,26,female
+5769,Bachelor,False,other,26,male
+5770,Master,False,other,61,male
+5771,less than high school,False,Birmingham,70,female
+5772,Master,False,other,39,female
+5773,Bachelor,True,other,28,female
+5776,less than high school,False,other,19,female
+5777,less than high school,False,Birmingham,20,male
+5778,High School,False,other,64,male
+5779,Bachelor,False,other,24,female
+5780,Bachelor,False,London,68,female
+5783,High School,False,other,20,male
+5786,Master,True,other,20,male
+5787,less than high school,False,other,25,male
+5789,less than high school,False,other,22,female
+5790,Bachelor,False,other,38,female
+5791,Master,False,London,38,female
+5792,Bachelor,False,Birmingham,21,female
+5793,Bachelor,False,Birmingham,75,male
+5794,High School,False,other,69,male
+5796,Master,True,Birmingham,37,male
+5798,Bachelor,False,other,76,male
+5800,High School,False,other,21,female
+5801,less than high school,True,other,51,female
+5802,High School,False,other,45,female
+5803,Bachelor,False,other,25,female
+5804,High School,False,Birmingham,23,male
+5806,High School,False,Birmingham,18,female
+5808,Master,False,other,23,female
+5810,High School,False,Birmingham,26,female
+5812,Master,False,other,22,male
+5813,less than high school,False,London,22,female
+5814,High School,False,Birmingham,65,male
+5816,Bachelor,False,other,19,female
+5817,less than high school,False,other,23,female
+5818,less than high school,False,other,42,male
+5819,High School,False,other,60,male
+5820,less than high school,True,Birmingham,61,male
+5821,High School,False,Birmingham,22,male
+5823,High School,True,Birmingham,25,female
+5826,High School,False,London,54,male
+5827,Bachelor,False,London,29,female
+5828,Bachelor,False,London,22,female
+5830,Master,True,London,21,male
+5831,Master,False,other,21,female
+5832,Bachelor,False,other,23,male
+5833,Bachelor,False,Birmingham,59,male
+5834,Bachelor,False,other,25,female
+5836,Bachelor,False,other,27,male
+5838,Bachelor,False,London,23,female
+5839,High School,False,Birmingham,64,female
+5842,Bachelor,True,other,21,male
+5843,Bachelor,False,Birmingham,29,female
+5846,Bachelor,True,London,58,male
+5848,Bachelor,False,other,23,male
+5849,High School,False,Birmingham,64,male
+5850,High School,False,London,21,male
+5851,High School,True,other,36,female
+5855,Bachelor,False,other,21,female
+5860,Master,False,other,22,male
+5861,less than high school,False,other,26,male
+5863,High School,False,Birmingham,21,female
+5864,Bachelor,True,London,28,male
+5865,High School,True,other,28,male
+5866,High School,False,other,22,female
+5869,less than high school,True,other,27,male
+5871,less than high school,False,other,22,female
+5872,Bachelor,True,other,19,female
+5873,less than high school,False,other,61,male
+5875,High School,True,Birmingham,31,male
+5876,High School,False,Birmingham,73,female
+5877,Bachelor,False,other,31,male
+5878,less than high school,False,Birmingham,18,male
+5881,less than high school,False,other,23,female
+5882,Bachelor,False,other,18,female
+5883,Master,True,other,21,male
+5884,High School,False,other,60,female
+5887,Master,False,Birmingham,67,female
+5889,Bachelor,True,Birmingham,47,male
+5890,Bachelor,True,London,21,male
+5891,Bachelor,False,other,25,male
+5893,Bachelor,False,Birmingham,76,male
+5895,Master,False,other,69,male
+5897,PhD,False,London,25,female
+5898,Bachelor,True,other,30,male
+5899,less than high school,False,other,56,male
+5900,Bachelor,True,Birmingham,74,male
+5901,Master,False,Birmingham,20,female
+5903,High School,False,Birmingham,70,male
+5904,High School,False,other,22,female
+5907,Master,False,London,34,male
+5909,Bachelor,False,Birmingham,53,male
+5910,Bachelor,False,other,31,male
+5911,less than high school,True,Birmingham,26,female
+5912,High School,False,other,33,female
+5913,High School,False,other,21,female
+5914,Bachelor,True,Birmingham,21,female
+5916,High School,True,other,22,male
+5918,High School,False,other,57,female
+5920,Master,False,Birmingham,29,female
+5922,High School,True,London,28,male
+5924,Bachelor,False,other,26,male
+5926,PhD,False,other,21,male
+5927,Bachelor,True,other,22,male
+5928,High School,False,Birmingham,63,male
+5929,Bachelor,True,Birmingham,22,female
+5930,High School,False,Birmingham,23,female
+5931,Bachelor,False,other,44,female
+5936,less than high school,False,other,63,male
+5937,High School,False,London,23,female
+5938,Bachelor,False,Birmingham,23,female
+5939,High School,False,Birmingham,44,male
+5940,Bachelor,False,other,21,female
+5941,Bachelor,False,London,60,female
+5942,less than high school,False,other,61,male
+5944,Bachelor,False,Birmingham,26,female
+5946,less than high school,False,other,20,female
+5947,less than high school,True,Birmingham,32,male
+5948,High School,True,Birmingham,30,female
+5949,Master,False,other,53,female
+5950,High School,False,Birmingham,52,female
+5951,Bachelor,False,Birmingham,19,female
+5952,High School,False,other,68,male
+5953,Bachelor,True,Birmingham,20,female
+5954,less than high school,False,other,26,female
+5955,less than high school,True,other,33,female
+5956,less than high school,True,Birmingham,19,female
+5957,High School,False,other,24,female
+5960,High School,False,other,21,male
+5961,Master,True,London,23,male
+5965,Master,False,other,27,male
+5968,Bachelor,False,Birmingham,37,female
+5969,High School,False,Birmingham,51,male
+5970,Bachelor,False,London,26,female
+5974,High School,False,Birmingham,24,male
+5977,High School,False,other,31,male
+5978,Bachelor,False,London,20,female
+5979,High School,True,London,18,female
+5980,Master,False,other,24,female
+5981,Bachelor,False,London,26,male
+5982,less than high school,False,other,30,male
+5984,less than high school,True,other,25,female
+5985,Master,False,other,49,female
+5988,Bachelor,False,other,18,female
+5989,High School,False,Birmingham,49,male
+5994,Bachelor,False,other,22,female
+5996,Bachelor,True,Birmingham,23,male
+5998,less than high school,False,other,29,female
+5999,less than high school,False,London,23,male
+6000,High School,False,London,32,female
+6002,less than high school,False,Birmingham,70,female
+6003,less than high school,True,London,56,female
+6004,Master,False,other,21,female
+6005,Bachelor,False,other,20,female
+6009,High School,False,other,26,female
+6014,Master,False,London,24,male
+6016,Bachelor,False,Birmingham,22,female
+6018,less than high school,False,other,21,female
+6019,High School,True,Birmingham,24,male
+6020,High School,False,other,27,female
+6021,Bachelor,False,other,24,male
+6023,Bachelor,True,London,25,female
+6025,Bachelor,False,London,21,female
+6026,Master,False,London,24,female
+6028,High School,True,Birmingham,20,female
+6029,High School,False,Birmingham,21,female
+6032,Bachelor,True,London,19,female
+6033,High School,False,Birmingham,22,male
+6034,High School,False,London,28,female
+6035,High School,False,other,21,male
+6036,Bachelor,False,other,69,female
+6037,less than high school,True,other,43,male
+6040,less than high school,False,other,75,male
+6041,High School,True,other,61,male
+6042,High School,False,London,28,female
+6044,High School,True,London,24,male
+6045,Master,False,London,21,male
+6046,Bachelor,False,Birmingham,69,male
+6047,Bachelor,False,other,30,male
+6049,Bachelor,True,London,54,male
+6051,High School,False,other,24,male
+6053,Bachelor,False,other,23,female
+6054,Bachelor,True,Birmingham,53,male
+6055,less than high school,False,London,19,male
+6056,less than high school,True,other,38,female
+6057,High School,True,other,35,male
+6060,PhD,False,other,22,male
+6061,less than high school,True,other,22,female
+6063,Bachelor,False,Birmingham,71,male
+6064,High School,False,London,31,female
+6067,less than high school,False,other,23,female
+6070,High School,False,other,71,female
+6071,Master,False,other,20,male
+6074,less than high school,False,other,18,male
+6075,Master,False,other,22,female
+6081,less than high school,False,other,21,female
+6082,Master,True,Birmingham,24,female
+6088,High School,False,other,54,female
+6089,Bachelor,False,other,22,male
+6090,Bachelor,True,other,22,female
+6091,High School,False,other,24,female
+6092,High School,False,other,22,female
+6093,High School,True,other,37,female
+6094,Bachelor,False,other,71,male
+6099,Master,False,Birmingham,31,male
+6100,less than high school,False,other,56,female
+6102,Master,False,other,58,female
+6103,Bachelor,False,other,61,male
+6104,less than high school,False,other,21,male
+6106,High School,True,Birmingham,47,male
+6107,less than high school,False,Birmingham,25,male
+6108,Master,False,other,66,female
+6109,Bachelor,False,Birmingham,23,female
+6110,High School,False,other,20,male
+6111,Bachelor,False,other,57,female
+6112,High School,False,other,45,female
+6117,Master,False,other,34,female
+6120,Bachelor,True,Birmingham,24,male
+6122,less than high school,True,Birmingham,33,female
+6123,High School,True,Birmingham,21,female
+6124,High School,False,Birmingham,20,female
+6125,less than high school,False,Birmingham,21,female
+6126,less than high school,True,other,37,male
+6129,High School,True,Birmingham,35,female
+6130,High School,False,Birmingham,21,male
+6131,High School,False,Birmingham,56,female
+6132,Bachelor,True,other,32,male
+6133,less than high school,False,Birmingham,23,male
+6134,less than high school,False,other,55,male
+6135,less than high school,True,other,19,female
+6136,High School,False,other,24,female
+6138,High School,False,London,58,male
+6139,High School,True,London,46,female
+6140,Master,False,Birmingham,35,female
+6143,High School,True,other,22,male
+6144,less than high school,False,London,24,female
+6145,Master,False,other,22,female
+6147,less than high school,False,Birmingham,25,female
+6148,Bachelor,False,other,30,female
+6149,Bachelor,False,other,70,female
+6151,less than high school,False,Birmingham,24,female
+6152,High School,True,London,26,female
+6155,High School,False,other,43,female
+6158,High School,False,Birmingham,41,female
+6159,High School,True,London,27,female
+6160,Master,False,Birmingham,36,female
+6166,Master,True,London,21,female
+6167,High School,False,other,60,male
+6168,Bachelor,False,other,62,male
+6170,less than high school,False,other,24,male
+6172,Master,False,London,28,female
+6173,High School,True,other,38,female
+6175,Master,False,other,18,female
+6177,High School,True,London,35,female
+6179,Bachelor,False,other,24,female
+6181,Bachelor,False,Birmingham,25,male
+6182,Master,True,London,22,male
+6183,Bachelor,False,London,23,female
+6185,High School,False,other,20,male
+6187,Bachelor,False,Birmingham,24,male
+6188,Bachelor,False,other,36,female
+6189,less than high school,True,Birmingham,21,female
+6191,Master,False,other,61,male
+6192,less than high school,False,Birmingham,23,male
+6196,Master,True,other,38,female
+6198,Bachelor,False,London,26,female
+6199,Bachelor,False,London,22,male
+6201,Bachelor,False,Birmingham,20,female
+6203,High School,False,other,23,female
+6204,less than high school,False,Birmingham,51,male
+6205,Bachelor,False,other,32,female
+6208,High School,False,other,26,female
+6209,Bachelor,False,London,21,male
+6211,Bachelor,True,Birmingham,41,female
+6216,less than high school,False,other,48,female
+6217,High School,False,other,22,female
+6219,less than high school,False,other,35,female
+6220,High School,False,London,33,female
+6221,High School,False,other,38,female
+6222,less than high school,False,other,52,male
+6224,Master,True,other,21,male
+6225,less than high school,False,other,41,male
+6226,High School,False,other,19,male
+6227,Bachelor,False,other,23,male
+6229,Master,True,Birmingham,23,female
+6230,High School,False,London,23,female
+6232,less than high school,True,Birmingham,21,male
+6235,less than high school,True,other,24,male
+6236,less than high school,True,other,26,female
+6237,less than high school,True,London,70,female
+6239,less than high school,False,other,70,male
+6240,less than high school,False,Birmingham,29,female
+6243,High School,False,Birmingham,22,female
+6244,less than high school,True,other,35,female
+6245,Bachelor,False,other,80,female
+6246,High School,False,other,28,female
+6247,Bachelor,True,other,63,female
+6248,Bachelor,False,other,32,female
+6249,less than high school,False,Birmingham,20,female
+6251,Bachelor,True,other,33,female
+6252,Bachelor,True,Birmingham,21,female
+6253,less than high school,True,other,56,female
+6254,less than high school,True,Birmingham,31,male
+6256,less than high school,False,other,26,female
+6262,less than high school,False,Birmingham,21,female
+6263,less than high school,False,other,20,male
+6264,High School,True,other,28,male
+6265,High School,False,other,77,male
+6267,High School,False,London,23,male
+6268,High School,True,Birmingham,35,female
+6269,less than high school,True,other,23,female
+6270,Bachelor,True,other,60,male
+6271,less than high school,True,Birmingham,20,female
+6272,Bachelor,False,other,23,female
+6273,Bachelor,False,other,38,female
+6276,less than high school,False,other,19,female
+6277,PhD,True,other,70,male
+6282,Bachelor,True,London,54,female
+6283,Bachelor,True,Birmingham,31,female
+6286,Master,False,other,63,female
+6287,Master,False,other,21,female
+6288,Bachelor,False,London,23,male
+6290,less than high school,True,other,21,male
+6293,less than high school,False,other,23,female
+6294,Bachelor,False,Birmingham,22,female
+6295,Bachelor,False,London,21,male
+6296,Bachelor,False,Birmingham,24,male
+6297,Master,True,London,23,female
+6299,High School,False,other,29,male
+6300,less than high school,False,London,59,female
+6301,High School,False,Birmingham,68,female
+6305,Bachelor,False,Birmingham,30,male
+6306,less than high school,True,other,34,male
+6307,less than high school,False,other,22,female
+6308,High School,True,Birmingham,55,female
+6309,Bachelor,False,Birmingham,21,female
+6310,Master,False,Birmingham,21,female
+6312,High School,True,other,19,female
+6314,High School,False,other,28,female
+6318,Bachelor,False,other,70,male
+6320,Master,False,other,24,female
+6321,Bachelor,True,Birmingham,34,female
+6322,less than high school,True,other,63,male
+6324,Bachelor,False,other,26,female
+6327,less than high school,True,other,27,female
+6328,High School,False,Birmingham,24,female
+6330,less than high school,False,Birmingham,21,female
+6335,Bachelor,True,other,22,female
+6338,PhD,False,other,47,female
+6339,less than high school,False,other,30,female
+6341,PhD,False,London,60,female
+6342,less than high school,True,London,19,female
+6343,less than high school,True,other,65,female
+6345,High School,True,other,59,male
+6346,Bachelor,False,other,72,female
+6348,High School,True,London,31,female
+6349,Bachelor,False,other,59,male
+6350,High School,True,Birmingham,42,female
+6352,High School,False,other,66,female
+6354,Bachelor,False,other,53,male
+6355,Bachelor,True,other,20,female
+6356,Bachelor,False,other,26,male
+6357,Bachelor,False,other,44,female
+6359,less than high school,True,Birmingham,23,female
+6361,High School,False,other,26,male
+6363,High School,False,other,21,female
+6364,less than high school,False,other,25,female
+6367,Bachelor,True,Birmingham,21,male
+6371,Bachelor,True,Birmingham,72,male
+6373,High School,True,Birmingham,20,male
+6374,less than high school,False,other,32,male
+6375,less than high school,True,other,31,male
+6378,less than high school,False,Birmingham,58,female
+6379,less than high school,True,other,72,male
+6384,Bachelor,False,Birmingham,60,male
+6387,Bachelor,False,Birmingham,19,female
+6389,Master,False,other,30,female
+6390,less than high school,True,other,27,male
+6391,Master,False,other,79,male
+6393,less than high school,False,London,68,female
+6395,less than high school,False,Birmingham,21,female
+6397,less than high school,True,other,22,male
+6398,Master,False,other,23,female
+6402,High School,True,other,21,female
+6404,Bachelor,False,other,71,male
+6406,Bachelor,False,other,30,female
+6407,less than high school,False,Birmingham,18,female
+6411,Bachelor,False,Birmingham,72,female
+6412,less than high school,True,Birmingham,51,female
+6413,High School,False,London,61,female
+6414,High School,False,other,30,female
+6415,Bachelor,True,Birmingham,20,male
+6416,High School,False,Birmingham,56,female
+6417,Bachelor,False,other,22,male
+6418,Master,False,London,30,male
+6422,Bachelor,False,Birmingham,20,female
+6423,less than high school,False,Birmingham,35,female
+6424,less than high school,False,other,67,female
+6425,High School,False,other,20,female
+6426,Bachelor,False,other,59,female
+6427,High School,False,London,28,male
+6429,High School,False,other,22,female
+6431,less than high school,False,London,18,female
+6432,less than high school,True,other,30,male
+6435,Bachelor,False,other,23,male
+6436,Bachelor,True,other,28,male
+6437,less than high school,True,other,50,female
+6438,PhD,False,other,30,female
+6441,less than high school,False,London,67,male
+6447,Bachelor,False,other,24,male
+6448,less than high school,True,other,30,female
+6449,High School,False,other,24,female
+6451,High School,False,other,31,female
+6452,High School,False,Birmingham,38,female
+6453,High School,False,London,21,female
+6454,High School,True,Birmingham,21,male
+6455,less than high school,False,other,21,male
+6456,Master,True,other,28,male
+6458,Bachelor,False,other,26,female
+6463,Master,True,Birmingham,22,male
+6465,PhD,False,Birmingham,58,female
+6466,Bachelor,False,other,22,female
+6469,less than high school,False,Birmingham,33,female
+6470,High School,False,Birmingham,21,female
+6471,less than high school,False,Birmingham,25,male
+6472,less than high school,False,Birmingham,37,male
+6474,High School,False,other,20,female
+6475,High School,False,other,18,female
+6476,PhD,True,other,57,female
+6477,High School,True,Birmingham,21,male
+6479,less than high school,False,other,29,male
+6480,High School,True,Birmingham,50,female
+6482,Bachelor,False,Birmingham,48,male
+6484,PhD,True,other,74,female
+6486,High School,False,London,24,female
+6487,Master,True,London,61,male
+6488,High School,False,London,55,male
+6489,Bachelor,False,other,29,female
+6491,Master,False,other,28,male
+6492,High School,False,Birmingham,20,male
+6495,less than high school,True,Birmingham,25,female
+6496,Bachelor,True,Birmingham,59,female
